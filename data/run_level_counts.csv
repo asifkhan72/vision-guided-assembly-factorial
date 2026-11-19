@@ -1,0 +1,129 @@
+Sl,Color,Config,Ambient,Height,Rep,Success,Recog,Orient,Mate,Focus
+1,Royal Blue,Rectangular,360,250,2,10,0,0,0,0
+2,Red,Cylindrical,360,300,2,9,1,0,0,0
+3,Pink,Rectangular,110,300,2,10,0,0,0,0
+4,Lime Green,Rectangular,360,300,2,10,0,0,0,0
+5,Pink,Rectangular,360,300,2,10,0,0,0,0
+6,Royal Blue,Cylindrical,110,300,1,4,0,6,0,0
+7,Lime Green,Cylindrical,360,300,2,3,4,3,0,0
+8,Pink,Rectangular,110,250,2,10,0,0,0,0
+9,Pink,Rectangular,110,300,1,8,0,0,2,0
+10,Pink,Rectangular,110,250,1,10,0,0,0,0
+11,Lime Green,Rectangular,360,250,1,10,0,0,0,0
+12,Royal Blue,Cylindrical,360,250,1,10,0,0,0,0
+13,Red,Rectangular,110,250,1,9,1,0,0,0
+14,Pink,Cylindrical,360,250,2,8,0,2,0,0
+15,Red,Cylindrical,110,250,2,9,0,1,0,0
+16,Lime Green,Rectangular,110,300,2,9,0,0,1,0
+17,Lime Green,Cylindrical,360,250,1,4,1,5,0,0
+18,Red,Cylindrical,360,300,1,8,0,0,2,0
+19,Red,Rectangular,360,300,1,8,0,2,0,0
+20,Lime Green,Rectangular,360,250,2,10,0,0,0,0
+21,Lime Green,Cylindrical,360,250,2,6,1,2,0,1
+22,Royal Blue,Rectangular,110,250,1,9,0,1,0,0
+23,Royal Blue,Cylindrical,110,250,2,9,0,1,0,0
+24,Red,Rectangular,360,300,2,9,0,0,1,0
+25,Lime Green,Cylindrical,110,300,2,5,1,4,0,0
+26,Red,Rectangular,110,300,1,10,0,0,0,0
+27,Red,Rectangular,360,250,1,10,0,0,0,0
+28,Royal Blue,Rectangular,110,300,2,8,0,2,0,0
+29,Pink,Cylindrical,110,250,2,4,0,6,0,0
+30,Pink,Cylindrical,110,300,1,1,0,9,0,0
+31,Red,Cylindrical,360,250,2,10,0,0,0,0
+32,Royal Blue,Cylindrical,360,250,2,10,0,0,0,0
+33,Pink,Cylindrical,360,300,2,2,0,8,0,0
+34,Pink,Cylindrical,360,250,1,6,0,4,0,0
+35,Pink,Cylindrical,110,300,2,6,0,4,0,0
+36,Pink,Rectangular,360,250,1,10,0,0,0,0
+37,Royal Blue,Cylindrical,360,300,2,4,0,6,0,0
+38,Red,Rectangular,360,250,2,9,0,1,0,0
+39,Royal Blue,Cylindrical,360,300,1,3,0,7,0,0
+40,Lime Green,Rectangular,360,300,1,8,1,1,0,0
+41,Lime Green,Rectangular,110,300,1,9,0,1,0,0
+42,Lime Green,Rectangular,110,250,1,7,0,3,0,0
+43,Pink,Rectangular,360,250,2,10,0,0,0,0
+44,Royal Blue,Rectangular,110,250,2,8,0,2,0,0
+45,Lime Green,Cylindrical,110,250,2,10,0,0,0,0
+46,Red,Cylindrical,110,300,2,10,0,0,0,0
+47,Red,Rectangular,110,300,2,9,0,1,0,0
+48,Pink,Cylindrical,110,250,1,6,0,4,0,0
+49,Pink,Cylindrical,360,300,1,1,0,9,0,0
+50,Lime Green,Cylindrical,360,300,1,0,0,9,0,1
+51,Royal Blue,Cylindrical,110,300,2,2,0,8,0,0
+52,Red,Cylindrical,110,250,1,10,0,0,0,0
+53,Royal Blue,Rectangular,110,300,1,7,0,3,0,0
+54,Royal Blue,Cylindrical,110,250,1,9,0,1,0,0
+55,Lime Green,Cylindrical,110,300,1,4,0,5,1,0
+56,Royal Blue,Rectangular,360,300,2,9,0,1,0,0
+57,Lime Green,Cylindrical,110,250,1,9,0,0,1,0
+58,Lime Green,Rectangular,110,250,2,9,0,1,0,0
+59,Red,Cylindrical,110,300,1,10,0,0,0,0
+60,Royal Blue,Rectangular,360,300,1,10,0,0,0,0
+61,Red,Cylindrical,360,250,1,9,0,0,1,0
+62,Red,Rectangular,110,250,2,9,0,1,0,0
+63,Pink,Rectangular,360,300,1,5,2,2,1,0
+64,Royal Blue,Rectangular,360,250,1,9,0,1,0,0
+65,Royal Blue,Hexagonal,110,300,1,7,0,3,0,0
+66,Pink,Hexagonal,360,250,2,8,1,1,0,0
+67,Royal Blue,Hexagonal,360,300,1,8,0,2,0,0
+68,Red,Trapezium,110,300,1,10,0,0,0,0
+69,Royal Blue,Trapezium,360,250,1,10,0,0,0,0
+70,Pink,Hexagonal,110,250,2,7,0,3,0,0
+71,Royal Blue,Hexagonal,360,300,2,6,0,3,0,1
+72,Royal Blue,Hexagonal,360,250,2,6,0,3,0,1
+73,Red,Trapezium,110,250,2,10,0,0,0,0
+74,Royal Blue,Hexagonal,110,250,1,9,0,1,0,0
+75,Red,Trapezium,360,250,1,9,0,0,0,1
+76,Lime Green,Trapezium,360,300,1,9,0,0,0,1
+77,Pink,Trapezium,360,250,1,9,0,0,1,0
+78,Lime Green,Hexagonal,110,300,1,7,0,3,0,0
+79,Red,Trapezium,360,300,1,10,0,0,0,0
+80,Red,Trapezium,110,250,1,10,0,0,0,0
+81,Royal Blue,Trapezium,110,250,1,10,0,0,0,0
+82,Red,Hexagonal,360,250,1,8,0,0,0,2
+83,Red,Hexagonal,110,300,2,9,0,1,0,0
+84,Red,Hexagonal,110,250,2,10,0,0,0,0
+85,Lime Green,Hexagonal,110,250,1,10,0,0,0,0
+86,Pink,Trapezium,110,300,2,10,0,0,0,0
+87,Lime Green,Trapezium,110,300,1,10,0,0,0,0
+88,Pink,Hexagonal,110,300,2,6,0,3,0,1
+89,Lime Green,Trapezium,360,300,2,9,1,0,0,0
+90,Lime Green,Hexagonal,360,250,1,5,1,4,0,0
+91,Royal Blue,Trapezium,110,300,1,10,0,0,0,0
+92,Pink,Hexagonal,110,300,1,9,0,1,0,0
+93,Pink,Hexagonal,360,300,2,6,3,1,0,0
+94,Lime Green,Trapezium,110,250,2,10,0,0,0,0
+95,Lime Green,Trapezium,110,250,1,10,0,0,0,0
+96,Red,Hexagonal,360,300,2,9,0,1,0,0
+97,Lime Green,Hexagonal,360,250,2,8,0,2,0,0
+98,Pink,Hexagonal,360,250,1,7,1,2,0,0
+99,Lime Green,Trapezium,360,250,2,10,0,0,0,0
+100,Pink,Trapezium,110,300,1,10,0,0,0,0
+101,Royal Blue,Hexagonal,360,250,1,8,2,0,0,0
+102,Pink,Trapezium,360,300,1,10,0,0,0,0
+103,Red,Trapezium,110,300,2,10,0,0,0,0
+104,Red,Hexagonal,360,300,1,9,0,1,0,0
+105,Red,Hexagonal,110,250,1,10,0,0,0,0
+106,Lime Green,Hexagonal,360,300,2,4,4,2,0,0
+107,Pink,Trapezium,110,250,1,10,0,0,0,0
+108,Lime Green,Hexagonal,110,300,2,7,0,3,0,0
+109,Royal Blue,Trapezium,360,250,2,10,0,0,0,0
+110,Pink,Trapezium,110,250,2,10,0,0,0,0
+111,Lime Green,Hexagonal,110,250,2,9,0,1,0,0
+112,Lime Green,Hexagonal,360,300,1,4,0,6,0,0
+113,Lime Green,Trapezium,110,300,2,10,0,0,0,0
+114,Pink,Hexagonal,110,250,1,10,0,0,0,0
+115,Pink,Trapezium,360,300,2,9,1,0,0,0
+116,Red,Hexagonal,110,300,1,10,0,0,0,0
+117,Royal Blue,Trapezium,110,250,2,10,0,0,0,0
+118,Royal Blue,Trapezium,110,300,2,10,0,0,0,0
+119,Royal Blue,Hexagonal,110,250,2,10,0,0,0,0
+120,Red,Trapezium,360,250,2,10,0,0,0,0
+121,Pink,Trapezium,360,250,2,8,0,2,0,0
+122,Royal Blue,Trapezium,360,300,1,10,0,0,0,0
+123,Lime Green,Trapezium,360,250,1,10,0,0,0,0
+124,Red,Trapezium,360,300,2,10,0,0,0,0
+125,Royal Blue,Hexagonal,110,300,2,8,0,2,0,0
+126,Royal Blue,Trapezium,360,300,2,10,0,0,0,0
+127,Pink,Hexagonal,360,300,1,9,1,0,0,0
+128,Red,Hexagonal,360,250,2,9,1,0,0,0

@@ -1,0 +1,1281 @@
+Sl,Color,Config,Ambient,Height,Rep,Attempt,Success,Failure_category,Completion_time_s
+1,Royal Blue,Rectangular,360,250,2,1,1,,10.6
+1,Royal Blue,Rectangular,360,250,2,2,1,,10.5
+1,Royal Blue,Rectangular,360,250,2,3,1,,10.9
+1,Royal Blue,Rectangular,360,250,2,4,1,,10.5
+1,Royal Blue,Rectangular,360,250,2,5,1,,12.5
+1,Royal Blue,Rectangular,360,250,2,6,1,,10.7
+1,Royal Blue,Rectangular,360,250,2,7,1,,10.9
+1,Royal Blue,Rectangular,360,250,2,8,1,,10.7
+1,Royal Blue,Rectangular,360,250,2,9,1,,10.9
+1,Royal Blue,Rectangular,360,250,2,10,1,,10.7
+2,Red,Cylindrical,360,300,2,1,1,,10.7
+2,Red,Cylindrical,360,300,2,2,1,,10.8
+2,Red,Cylindrical,360,300,2,3,1,,10.8
+2,Red,Cylindrical,360,300,2,4,1,,11.1
+2,Red,Cylindrical,360,300,2,5,1,,11.0
+2,Red,Cylindrical,360,300,2,6,1,,10.9
+2,Red,Cylindrical,360,300,2,7,1,,10.6
+2,Red,Cylindrical,360,300,2,8,0,bottom_part_not_recognized,
+2,Red,Cylindrical,360,300,2,9,1,,10.6
+2,Red,Cylindrical,360,300,2,10,1,,11.0
+3,Pink,Rectangular,110,300,2,1,1,,11.0
+3,Pink,Rectangular,110,300,2,2,1,,11.0
+3,Pink,Rectangular,110,300,2,3,1,,12.2
+3,Pink,Rectangular,110,300,2,4,1,,11.0
+3,Pink,Rectangular,110,300,2,5,1,,10.8
+3,Pink,Rectangular,110,300,2,6,1,,10.9
+3,Pink,Rectangular,110,300,2,7,1,,12.4
+3,Pink,Rectangular,110,300,2,8,1,,10.9
+3,Pink,Rectangular,110,300,2,9,1,,10.7
+3,Pink,Rectangular,110,300,2,10,1,,10.7
+4,Lime Green,Rectangular,360,300,2,1,1,,10.7
+4,Lime Green,Rectangular,360,300,2,2,1,,10.7
+4,Lime Green,Rectangular,360,300,2,3,1,,10.7
+4,Lime Green,Rectangular,360,300,2,4,1,,10.9
+4,Lime Green,Rectangular,360,300,2,5,1,,10.8
+4,Lime Green,Rectangular,360,300,2,6,1,,10.7
+4,Lime Green,Rectangular,360,300,2,7,1,,10.9
+4,Lime Green,Rectangular,360,300,2,8,1,,10.6
+4,Lime Green,Rectangular,360,300,2,9,1,,10.7
+4,Lime Green,Rectangular,360,300,2,10,1,,10.8
+5,Pink,Rectangular,360,300,2,1,1,,10.9
+5,Pink,Rectangular,360,300,2,2,1,,10.9
+5,Pink,Rectangular,360,300,2,3,1,,10.9
+5,Pink,Rectangular,360,300,2,4,1,,10.8
+5,Pink,Rectangular,360,300,2,5,1,,10.7
+5,Pink,Rectangular,360,300,2,6,1,,10.7
+5,Pink,Rectangular,360,300,2,7,1,,10.9
+5,Pink,Rectangular,360,300,2,8,1,,10.8
+5,Pink,Rectangular,360,300,2,9,1,,10.9
+5,Pink,Rectangular,360,300,2,10,1,,10.9
+6,Royal Blue,Cylindrical,110,300,1,1,1,,10.6
+6,Royal Blue,Cylindrical,110,300,1,2,1,,10.7
+6,Royal Blue,Cylindrical,110,300,1,3,0,wrong_orientation,
+6,Royal Blue,Cylindrical,110,300,1,4,0,wrong_orientation,
+6,Royal Blue,Cylindrical,110,300,1,5,0,wrong_orientation,
+6,Royal Blue,Cylindrical,110,300,1,6,1,,11.1
+6,Royal Blue,Cylindrical,110,300,1,7,1,,10.7
+6,Royal Blue,Cylindrical,110,300,1,8,0,wrong_orientation,
+6,Royal Blue,Cylindrical,110,300,1,9,0,wrong_orientation,
+6,Royal Blue,Cylindrical,110,300,1,10,0,wrong_orientation,
+7,Lime Green,Cylindrical,360,300,2,1,0,bottom_part_not_recognized,
+7,Lime Green,Cylindrical,360,300,2,2,0,wrong_orientation,
+7,Lime Green,Cylindrical,360,300,2,3,1,,10.9
+7,Lime Green,Cylindrical,360,300,2,4,0,bottom_part_not_recognized,
+7,Lime Green,Cylindrical,360,300,2,5,1,,10.6
+7,Lime Green,Cylindrical,360,300,2,6,0,bottom_part_not_recognized,
+7,Lime Green,Cylindrical,360,300,2,7,1,,10.8
+7,Lime Green,Cylindrical,360,300,2,8,0,wrong_orientation,
+7,Lime Green,Cylindrical,360,300,2,9,0,bottom_part_not_recognized,
+7,Lime Green,Cylindrical,360,300,2,10,0,wrong_orientation,
+8,Pink,Rectangular,110,250,2,1,1,,10.8
+8,Pink,Rectangular,110,250,2,2,1,,10.7
+8,Pink,Rectangular,110,250,2,3,1,,10.6
+8,Pink,Rectangular,110,250,2,4,1,,10.8
+8,Pink,Rectangular,110,250,2,5,1,,10.8
+8,Pink,Rectangular,110,250,2,6,1,,10.7
+8,Pink,Rectangular,110,250,2,7,1,,10.8
+8,Pink,Rectangular,110,250,2,8,1,,10.6
+8,Pink,Rectangular,110,250,2,9,1,,10.6
+8,Pink,Rectangular,110,250,2,10,1,,10.6
+9,Pink,Rectangular,110,300,1,1,0,mating_failed_correct_orientation,
+9,Pink,Rectangular,110,300,1,2,1,,11.9
+9,Pink,Rectangular,110,300,1,3,1,,11.0
+9,Pink,Rectangular,110,300,1,4,1,,10.8
+9,Pink,Rectangular,110,300,1,5,1,,10.8
+9,Pink,Rectangular,110,300,1,6,0,mating_failed_correct_orientation,
+9,Pink,Rectangular,110,300,1,7,1,,10.7
+9,Pink,Rectangular,110,300,1,8,1,,10.9
+9,Pink,Rectangular,110,300,1,9,1,,10.9
+9,Pink,Rectangular,110,300,1,10,1,,10.9
+10,Pink,Rectangular,110,250,1,1,1,,10.9
+10,Pink,Rectangular,110,250,1,2,1,,11.1
+10,Pink,Rectangular,110,250,1,3,1,,10.8
+10,Pink,Rectangular,110,250,1,4,1,,10.9
+10,Pink,Rectangular,110,250,1,5,1,,10.8
+10,Pink,Rectangular,110,250,1,6,1,,10.8
+10,Pink,Rectangular,110,250,1,7,1,,10.8
+10,Pink,Rectangular,110,250,1,8,1,,10.8
+10,Pink,Rectangular,110,250,1,9,1,,10.8
+10,Pink,Rectangular,110,250,1,10,1,,10.7
+11,Lime Green,Rectangular,360,250,1,1,1,,10.7
+11,Lime Green,Rectangular,360,250,1,2,1,,10.9
+11,Lime Green,Rectangular,360,250,1,3,1,,10.8
+11,Lime Green,Rectangular,360,250,1,4,1,,10.8
+11,Lime Green,Rectangular,360,250,1,5,1,,10.8
+11,Lime Green,Rectangular,360,250,1,6,1,,10.8
+11,Lime Green,Rectangular,360,250,1,7,1,,10.7
+11,Lime Green,Rectangular,360,250,1,8,1,,10.7
+11,Lime Green,Rectangular,360,250,1,9,1,,10.8
+11,Lime Green,Rectangular,360,250,1,10,1,,10.6
+12,Royal Blue,Cylindrical,360,250,1,1,1,,10.6
+12,Royal Blue,Cylindrical,360,250,1,2,1,,10.7
+12,Royal Blue,Cylindrical,360,250,1,3,1,,10.6
+12,Royal Blue,Cylindrical,360,250,1,4,1,,10.7
+12,Royal Blue,Cylindrical,360,250,1,5,1,,10.5
+12,Royal Blue,Cylindrical,360,250,1,6,1,,10.7
+12,Royal Blue,Cylindrical,360,250,1,7,1,,10.6
+12,Royal Blue,Cylindrical,360,250,1,8,1,,10.6
+12,Royal Blue,Cylindrical,360,250,1,9,1,,10.5
+12,Royal Blue,Cylindrical,360,250,1,10,1,,10.6
+13,Red,Rectangular,110,250,1,1,0,bottom_part_not_recognized,
+13,Red,Rectangular,110,250,1,2,1,,10.8
+13,Red,Rectangular,110,250,1,3,1,,10.8
+13,Red,Rectangular,110,250,1,4,1,,10.7
+13,Red,Rectangular,110,250,1,5,1,,10.7
+13,Red,Rectangular,110,250,1,6,1,,10.7
+13,Red,Rectangular,110,250,1,7,1,,10.6
+13,Red,Rectangular,110,250,1,8,1,,10.6
+13,Red,Rectangular,110,250,1,9,1,,10.7
+13,Red,Rectangular,110,250,1,10,1,,10.6
+14,Pink,Cylindrical,360,250,2,1,1,,10.7
+14,Pink,Cylindrical,360,250,2,2,1,,10.6
+14,Pink,Cylindrical,360,250,2,3,0,wrong_orientation,
+14,Pink,Cylindrical,360,250,2,4,1,,10.6
+14,Pink,Cylindrical,360,250,2,5,1,,10.6
+14,Pink,Cylindrical,360,250,2,6,0,wrong_orientation,
+14,Pink,Cylindrical,360,250,2,7,1,,10.7
+14,Pink,Cylindrical,360,250,2,8,1,,10.7
+14,Pink,Cylindrical,360,250,2,9,1,,10.7
+14,Pink,Cylindrical,360,250,2,10,1,,10.7
+15,Red,Cylindrical,110,250,2,1,1,,10.7
+15,Red,Cylindrical,110,250,2,2,1,,10.8
+15,Red,Cylindrical,110,250,2,3,1,,10.8
+15,Red,Cylindrical,110,250,2,4,1,,10.7
+15,Red,Cylindrical,110,250,2,5,1,,10.7
+15,Red,Cylindrical,110,250,2,6,1,,10.6
+15,Red,Cylindrical,110,250,2,7,1,,10.7
+15,Red,Cylindrical,110,250,2,8,1,,10.7
+15,Red,Cylindrical,110,250,2,9,1,,10.7
+15,Red,Cylindrical,110,250,2,10,0,wrong_orientation,
+16,Lime Green,Rectangular,110,300,2,1,1,,10.6
+16,Lime Green,Rectangular,110,300,2,2,1,,10.7
+16,Lime Green,Rectangular,110,300,2,3,1,,11.0
+16,Lime Green,Rectangular,110,300,2,4,1,,12.1
+16,Lime Green,Rectangular,110,300,2,5,1,,10.8
+16,Lime Green,Rectangular,110,300,2,6,0,mating_failed_correct_orientation,
+16,Lime Green,Rectangular,110,300,2,7,1,,10.8
+16,Lime Green,Rectangular,110,300,2,8,1,,10.7
+16,Lime Green,Rectangular,110,300,2,9,1,,10.8
+16,Lime Green,Rectangular,110,300,2,10,1,,10.8
+17,Lime Green,Cylindrical,360,250,1,1,0,bottom_part_not_recognized,
+17,Lime Green,Cylindrical,360,250,1,2,1,,10.9
+17,Lime Green,Cylindrical,360,250,1,3,0,wrong_orientation,
+17,Lime Green,Cylindrical,360,250,1,4,0,wrong_orientation,
+17,Lime Green,Cylindrical,360,250,1,5,0,wrong_orientation,
+17,Lime Green,Cylindrical,360,250,1,6,1,,10.9
+17,Lime Green,Cylindrical,360,250,1,7,1,,10.8
+17,Lime Green,Cylindrical,360,250,1,8,0,wrong_orientation,
+17,Lime Green,Cylindrical,360,250,1,9,0,wrong_orientation,
+17,Lime Green,Cylindrical,360,250,1,10,1,,10.7
+18,Red,Cylindrical,360,300,1,1,0,mating_failed_correct_orientation,
+18,Red,Cylindrical,360,300,1,2,1,,10.6
+18,Red,Cylindrical,360,300,1,3,1,,10.8
+18,Red,Cylindrical,360,300,1,4,1,,10.8
+18,Red,Cylindrical,360,300,1,5,1,,10.8
+18,Red,Cylindrical,360,300,1,6,1,,10.8
+18,Red,Cylindrical,360,300,1,7,1,,10.6
+18,Red,Cylindrical,360,300,1,8,1,,10.7
+18,Red,Cylindrical,360,300,1,9,1,,10.8
+18,Red,Cylindrical,360,300,1,10,0,mating_failed_correct_orientation,
+19,Red,Rectangular,360,300,1,1,1,,10.5
+19,Red,Rectangular,360,300,1,2,1,,10.8
+19,Red,Rectangular,360,300,1,3,0,wrong_orientation,
+19,Red,Rectangular,360,300,1,4,1,,10.8
+19,Red,Rectangular,360,300,1,5,1,,10.7
+19,Red,Rectangular,360,300,1,6,1,,10.7
+19,Red,Rectangular,360,300,1,7,0,wrong_orientation,
+19,Red,Rectangular,360,300,1,8,1,,10.7
+19,Red,Rectangular,360,300,1,9,1,,10.8
+19,Red,Rectangular,360,300,1,10,1,,10.9
+20,Lime Green,Rectangular,360,250,2,1,1,,10.8
+20,Lime Green,Rectangular,360,250,2,2,1,,10.9
+20,Lime Green,Rectangular,360,250,2,3,1,,10.9
+20,Lime Green,Rectangular,360,250,2,4,1,,10.7
+20,Lime Green,Rectangular,360,250,2,5,1,,10.9
+20,Lime Green,Rectangular,360,250,2,6,1,,10.9
+20,Lime Green,Rectangular,360,250,2,7,1,,10.8
+20,Lime Green,Rectangular,360,250,2,8,1,,10.7
+20,Lime Green,Rectangular,360,250,2,9,1,,10.7
+20,Lime Green,Rectangular,360,250,2,10,1,,10.8
+21,Lime Green,Cylindrical,360,250,2,1,0,wrong_orientation,
+21,Lime Green,Cylindrical,360,250,2,2,0,bottom_part_not_recognized,
+21,Lime Green,Cylindrical,360,250,2,3,0,could_not_focus,
+21,Lime Green,Cylindrical,360,250,2,4,1,,10.7
+21,Lime Green,Cylindrical,360,250,2,5,0,wrong_orientation,
+21,Lime Green,Cylindrical,360,250,2,6,1,,10.7
+21,Lime Green,Cylindrical,360,250,2,7,1,,10.8
+21,Lime Green,Cylindrical,360,250,2,8,1,,10.8
+21,Lime Green,Cylindrical,360,250,2,9,1,,10.6
+21,Lime Green,Cylindrical,360,250,2,10,1,,10.9
+22,Royal Blue,Rectangular,110,250,1,1,1,,10.8
+22,Royal Blue,Rectangular,110,250,1,2,1,,10.9
+22,Royal Blue,Rectangular,110,250,1,3,1,,11.8
+22,Royal Blue,Rectangular,110,250,1,4,1,,10.9
+22,Royal Blue,Rectangular,110,250,1,5,1,,10.9
+22,Royal Blue,Rectangular,110,250,1,6,1,,10.8
+22,Royal Blue,Rectangular,110,250,1,7,1,,10.7
+22,Royal Blue,Rectangular,110,250,1,8,1,,10.6
+22,Royal Blue,Rectangular,110,250,1,9,0,wrong_orientation,
+22,Royal Blue,Rectangular,110,250,1,10,1,,10.8
+23,Royal Blue,Cylindrical,110,250,2,1,1,,10.8
+23,Royal Blue,Cylindrical,110,250,2,2,1,,10.7
+23,Royal Blue,Cylindrical,110,250,2,3,1,,10.7
+23,Royal Blue,Cylindrical,110,250,2,4,1,,10.5
+23,Royal Blue,Cylindrical,110,250,2,5,1,,10.7
+23,Royal Blue,Cylindrical,110,250,2,6,0,wrong_orientation,
+23,Royal Blue,Cylindrical,110,250,2,7,1,,10.6
+23,Royal Blue,Cylindrical,110,250,2,8,1,,10.6
+23,Royal Blue,Cylindrical,110,250,2,9,1,,10.5
+23,Royal Blue,Cylindrical,110,250,2,10,1,,10.7
+24,Red,Rectangular,360,300,2,1,1,,10.8
+24,Red,Rectangular,360,300,2,2,1,,10.7
+24,Red,Rectangular,360,300,2,3,1,,10.7
+24,Red,Rectangular,360,300,2,4,0,mating_failed_correct_orientation,
+24,Red,Rectangular,360,300,2,5,1,,11.1
+24,Red,Rectangular,360,300,2,6,1,,10.9
+24,Red,Rectangular,360,300,2,7,1,,10.8
+24,Red,Rectangular,360,300,2,8,1,,10.8
+24,Red,Rectangular,360,300,2,9,1,,10.9
+24,Red,Rectangular,360,300,2,10,1,,10.8
+25,Lime Green,Cylindrical,110,300,2,1,1,,10.6
+25,Lime Green,Cylindrical,110,300,2,2,1,,10.7
+25,Lime Green,Cylindrical,110,300,2,3,0,wrong_orientation,
+25,Lime Green,Cylindrical,110,300,2,4,0,bottom_part_not_recognized,
+25,Lime Green,Cylindrical,110,300,2,5,0,wrong_orientation,
+25,Lime Green,Cylindrical,110,300,2,6,1,,10.6
+25,Lime Green,Cylindrical,110,300,2,7,1,,10.7
+25,Lime Green,Cylindrical,110,300,2,8,0,wrong_orientation,
+25,Lime Green,Cylindrical,110,300,2,9,0,wrong_orientation,
+25,Lime Green,Cylindrical,110,300,2,10,1,,10.6
+26,Red,Rectangular,110,300,1,1,1,,10.7
+26,Red,Rectangular,110,300,1,2,1,,10.9
+26,Red,Rectangular,110,300,1,3,1,,10.9
+26,Red,Rectangular,110,300,1,4,1,,10.8
+26,Red,Rectangular,110,300,1,5,1,,10.8
+26,Red,Rectangular,110,300,1,6,1,,10.7
+26,Red,Rectangular,110,300,1,7,1,,10.8
+26,Red,Rectangular,110,300,1,8,1,,10.7
+26,Red,Rectangular,110,300,1,9,1,,10.8
+26,Red,Rectangular,110,300,1,10,1,,10.7
+27,Red,Rectangular,360,250,1,1,1,,10.7
+27,Red,Rectangular,360,250,1,2,1,,10.6
+27,Red,Rectangular,360,250,1,3,1,,10.8
+27,Red,Rectangular,360,250,1,4,1,,10.7
+27,Red,Rectangular,360,250,1,5,1,,10.6
+27,Red,Rectangular,360,250,1,6,1,,10.7
+27,Red,Rectangular,360,250,1,7,1,,10.8
+27,Red,Rectangular,360,250,1,8,1,,10.8
+27,Red,Rectangular,360,250,1,9,1,,10.8
+27,Red,Rectangular,360,250,1,10,1,,10.7
+28,Royal Blue,Rectangular,110,300,2,1,1,,10.8
+28,Royal Blue,Rectangular,110,300,2,2,1,,10.6
+28,Royal Blue,Rectangular,110,300,2,3,1,,10.7
+28,Royal Blue,Rectangular,110,300,2,4,1,,10.6
+28,Royal Blue,Rectangular,110,300,2,5,1,,10.7
+28,Royal Blue,Rectangular,110,300,2,6,1,,10.8
+28,Royal Blue,Rectangular,110,300,2,7,0,wrong_orientation,
+28,Royal Blue,Rectangular,110,300,2,8,1,,12.6
+28,Royal Blue,Rectangular,110,300,2,9,1,,10.7
+28,Royal Blue,Rectangular,110,300,2,10,0,wrong_orientation,
+29,Pink,Cylindrical,110,250,2,1,1,,10.6
+29,Pink,Cylindrical,110,250,2,2,1,,10.7
+29,Pink,Cylindrical,110,250,2,3,1,,10.7
+29,Pink,Cylindrical,110,250,2,4,0,wrong_orientation,
+29,Pink,Cylindrical,110,250,2,5,0,wrong_orientation,
+29,Pink,Cylindrical,110,250,2,6,0,wrong_orientation,
+29,Pink,Cylindrical,110,250,2,7,0,wrong_orientation,
+29,Pink,Cylindrical,110,250,2,8,1,,10.6
+29,Pink,Cylindrical,110,250,2,9,0,wrong_orientation,
+29,Pink,Cylindrical,110,250,2,10,0,wrong_orientation,
+30,Pink,Cylindrical,110,300,1,1,0,wrong_orientation,
+30,Pink,Cylindrical,110,300,1,2,0,wrong_orientation,
+30,Pink,Cylindrical,110,300,1,3,0,wrong_orientation,
+30,Pink,Cylindrical,110,300,1,4,0,wrong_orientation,
+30,Pink,Cylindrical,110,300,1,5,0,wrong_orientation,
+30,Pink,Cylindrical,110,300,1,6,0,wrong_orientation,
+30,Pink,Cylindrical,110,300,1,7,0,wrong_orientation,
+30,Pink,Cylindrical,110,300,1,8,0,wrong_orientation,
+30,Pink,Cylindrical,110,300,1,9,1,,10.7
+30,Pink,Cylindrical,110,300,1,10,0,wrong_orientation,
+31,Red,Cylindrical,360,250,2,1,1,,10.7
+31,Red,Cylindrical,360,250,2,2,1,,10.7
+31,Red,Cylindrical,360,250,2,3,1,,10.6
+31,Red,Cylindrical,360,250,2,4,1,,10.6
+31,Red,Cylindrical,360,250,2,5,1,,10.7
+31,Red,Cylindrical,360,250,2,6,1,,10.6
+31,Red,Cylindrical,360,250,2,7,1,,10.7
+31,Red,Cylindrical,360,250,2,8,1,,10.5
+31,Red,Cylindrical,360,250,2,9,1,,10.7
+31,Red,Cylindrical,360,250,2,10,1,,10.7
+32,Royal Blue,Cylindrical,360,250,2,1,1,,10.6
+32,Royal Blue,Cylindrical,360,250,2,2,1,,10.7
+32,Royal Blue,Cylindrical,360,250,2,3,1,,10.6
+32,Royal Blue,Cylindrical,360,250,2,4,1,,10.7
+32,Royal Blue,Cylindrical,360,250,2,5,1,,10.8
+32,Royal Blue,Cylindrical,360,250,2,6,1,,10.7
+32,Royal Blue,Cylindrical,360,250,2,7,1,,10.5
+32,Royal Blue,Cylindrical,360,250,2,8,1,,10.7
+32,Royal Blue,Cylindrical,360,250,2,9,1,,10.7
+32,Royal Blue,Cylindrical,360,250,2,10,1,,10.6
+33,Pink,Cylindrical,360,300,2,1,0,wrong_orientation,
+33,Pink,Cylindrical,360,300,2,2,0,wrong_orientation,
+33,Pink,Cylindrical,360,300,2,3,0,wrong_orientation,
+33,Pink,Cylindrical,360,300,2,4,1,,10.8
+33,Pink,Cylindrical,360,300,2,5,0,wrong_orientation,
+33,Pink,Cylindrical,360,300,2,6,0,wrong_orientation,
+33,Pink,Cylindrical,360,300,2,7,1,,10.7
+33,Pink,Cylindrical,360,300,2,8,0,wrong_orientation,
+33,Pink,Cylindrical,360,300,2,9,0,wrong_orientation,
+33,Pink,Cylindrical,360,300,2,10,0,wrong_orientation,
+34,Pink,Cylindrical,360,250,1,1,1,,10.6
+34,Pink,Cylindrical,360,250,1,2,1,,10.7
+34,Pink,Cylindrical,360,250,1,3,0,wrong_orientation,
+34,Pink,Cylindrical,360,250,1,4,1,,10.6
+34,Pink,Cylindrical,360,250,1,5,1,,10.7
+34,Pink,Cylindrical,360,250,1,6,1,,10.7
+34,Pink,Cylindrical,360,250,1,7,0,wrong_orientation,
+34,Pink,Cylindrical,360,250,1,8,1,,10.8
+34,Pink,Cylindrical,360,250,1,9,0,wrong_orientation,
+34,Pink,Cylindrical,360,250,1,10,0,wrong_orientation,
+35,Pink,Cylindrical,110,300,2,1,1,,10.6
+35,Pink,Cylindrical,110,300,2,2,0,wrong_orientation,
+35,Pink,Cylindrical,110,300,2,3,0,wrong_orientation,
+35,Pink,Cylindrical,110,300,2,4,1,,10.7
+35,Pink,Cylindrical,110,300,2,5,1,,10.6
+35,Pink,Cylindrical,110,300,2,6,1,,10.5
+35,Pink,Cylindrical,110,300,2,7,0,wrong_orientation,
+35,Pink,Cylindrical,110,300,2,8,1,,10.7
+35,Pink,Cylindrical,110,300,2,9,1,,10.7
+35,Pink,Cylindrical,110,300,2,10,0,wrong_orientation,
+36,Pink,Rectangular,360,250,1,1,1,,10.6
+36,Pink,Rectangular,360,250,1,2,1,,10.8
+36,Pink,Rectangular,360,250,1,3,1,,10.7
+36,Pink,Rectangular,360,250,1,4,1,,10.7
+36,Pink,Rectangular,360,250,1,5,1,,10.8
+36,Pink,Rectangular,360,250,1,6,1,,10.7
+36,Pink,Rectangular,360,250,1,7,1,,10.7
+36,Pink,Rectangular,360,250,1,8,1,,10.7
+36,Pink,Rectangular,360,250,1,9,1,,10.8
+36,Pink,Rectangular,360,250,1,10,1,,10.9
+37,Royal Blue,Cylindrical,360,300,2,1,1,,10.6
+37,Royal Blue,Cylindrical,360,300,2,2,0,wrong_orientation,
+37,Royal Blue,Cylindrical,360,300,2,3,0,wrong_orientation,
+37,Royal Blue,Cylindrical,360,300,2,4,0,wrong_orientation,
+37,Royal Blue,Cylindrical,360,300,2,5,0,wrong_orientation,
+37,Royal Blue,Cylindrical,360,300,2,6,1,,10.7
+37,Royal Blue,Cylindrical,360,300,2,7,1,,10.7
+37,Royal Blue,Cylindrical,360,300,2,8,0,wrong_orientation,
+37,Royal Blue,Cylindrical,360,300,2,9,1,,10.6
+37,Royal Blue,Cylindrical,360,300,2,10,0,wrong_orientation,
+38,Red,Rectangular,360,250,2,1,1,,10.7
+38,Red,Rectangular,360,250,2,2,1,,10.7
+38,Red,Rectangular,360,250,2,3,1,,10.8
+38,Red,Rectangular,360,250,2,4,1,,10.8
+38,Red,Rectangular,360,250,2,5,1,,10.7
+38,Red,Rectangular,360,250,2,6,1,,10.7
+38,Red,Rectangular,360,250,2,7,1,,10.9
+38,Red,Rectangular,360,250,2,8,1,,10.7
+38,Red,Rectangular,360,250,2,9,1,,10.7
+38,Red,Rectangular,360,250,2,10,0,wrong_orientation,
+39,Royal Blue,Cylindrical,360,300,1,1,0,wrong_orientation,
+39,Royal Blue,Cylindrical,360,300,1,2,0,wrong_orientation,
+39,Royal Blue,Cylindrical,360,300,1,3,1,,10.8
+39,Royal Blue,Cylindrical,360,300,1,4,0,wrong_orientation,
+39,Royal Blue,Cylindrical,360,300,1,5,0,wrong_orientation,
+39,Royal Blue,Cylindrical,360,300,1,6,0,wrong_orientation,
+39,Royal Blue,Cylindrical,360,300,1,7,1,,10.6
+39,Royal Blue,Cylindrical,360,300,1,8,0,wrong_orientation,
+39,Royal Blue,Cylindrical,360,300,1,9,1,,10.7
+39,Royal Blue,Cylindrical,360,300,1,10,0,wrong_orientation,
+40,Lime Green,Rectangular,360,300,1,1,1,,10.6
+40,Lime Green,Rectangular,360,300,1,2,1,,10.7
+40,Lime Green,Rectangular,360,300,1,3,1,,10.7
+40,Lime Green,Rectangular,360,300,1,4,0,wrong_orientation,
+40,Lime Green,Rectangular,360,300,1,5,1,,10.6
+40,Lime Green,Rectangular,360,300,1,6,1,,10.8
+40,Lime Green,Rectangular,360,300,1,7,1,,10.8
+40,Lime Green,Rectangular,360,300,1,8,1,,10.9
+40,Lime Green,Rectangular,360,300,1,9,1,,10.7
+40,Lime Green,Rectangular,360,300,1,10,0,bottom_part_not_recognized,
+41,Lime Green,Rectangular,110,300,1,1,1,,12.4
+41,Lime Green,Rectangular,110,300,1,2,1,,10.7
+41,Lime Green,Rectangular,110,300,1,3,1,,11.9
+41,Lime Green,Rectangular,110,300,1,4,1,,10.9
+41,Lime Green,Rectangular,110,300,1,5,1,,10.8
+41,Lime Green,Rectangular,110,300,1,6,1,,10.9
+41,Lime Green,Rectangular,110,300,1,7,1,,10.7
+41,Lime Green,Rectangular,110,300,1,8,0,wrong_orientation,
+41,Lime Green,Rectangular,110,300,1,9,1,,10.7
+41,Lime Green,Rectangular,110,300,1,10,1,,10.9
+42,Lime Green,Rectangular,110,250,1,1,1,,10.8
+42,Lime Green,Rectangular,110,250,1,2,0,wrong_orientation,
+42,Lime Green,Rectangular,110,250,1,3,1,,10.7
+42,Lime Green,Rectangular,110,250,1,4,0,wrong_orientation,
+42,Lime Green,Rectangular,110,250,1,5,1,,10.7
+42,Lime Green,Rectangular,110,250,1,6,1,,10.8
+42,Lime Green,Rectangular,110,250,1,7,1,,11.2
+42,Lime Green,Rectangular,110,250,1,8,1,,10.7
+42,Lime Green,Rectangular,110,250,1,9,1,,11.9
+42,Lime Green,Rectangular,110,250,1,10,0,wrong_orientation,
+43,Pink,Rectangular,360,250,2,1,1,,10.8
+43,Pink,Rectangular,360,250,2,2,1,,12.4
+43,Pink,Rectangular,360,250,2,3,1,,10.9
+43,Pink,Rectangular,360,250,2,4,1,,10.8
+43,Pink,Rectangular,360,250,2,5,1,,10.9
+43,Pink,Rectangular,360,250,2,6,1,,10.6
+43,Pink,Rectangular,360,250,2,7,1,,10.7
+43,Pink,Rectangular,360,250,2,8,1,,10.7
+43,Pink,Rectangular,360,250,2,9,1,,10.7
+43,Pink,Rectangular,360,250,2,10,1,,10.9
+44,Royal Blue,Rectangular,110,250,2,1,1,,10.7
+44,Royal Blue,Rectangular,110,250,2,2,1,,10.9
+44,Royal Blue,Rectangular,110,250,2,3,1,,10.8
+44,Royal Blue,Rectangular,110,250,2,4,0,wrong_orientation,
+44,Royal Blue,Rectangular,110,250,2,5,1,,10.8
+44,Royal Blue,Rectangular,110,250,2,6,1,,10.7
+44,Royal Blue,Rectangular,110,250,2,7,1,,10.6
+44,Royal Blue,Rectangular,110,250,2,8,0,wrong_orientation,
+44,Royal Blue,Rectangular,110,250,2,9,1,,11.9
+44,Royal Blue,Rectangular,110,250,2,10,1,,10.6
+45,Lime Green,Cylindrical,110,250,2,1,1,,10.7
+45,Lime Green,Cylindrical,110,250,2,2,1,,10.8
+45,Lime Green,Cylindrical,110,250,2,3,1,,10.7
+45,Lime Green,Cylindrical,110,250,2,4,1,,10.6
+45,Lime Green,Cylindrical,110,250,2,5,1,,10.7
+45,Lime Green,Cylindrical,110,250,2,6,1,,10.6
+45,Lime Green,Cylindrical,110,250,2,7,1,,10.8
+45,Lime Green,Cylindrical,110,250,2,8,1,,10.8
+45,Lime Green,Cylindrical,110,250,2,9,1,,10.8
+45,Lime Green,Cylindrical,110,250,2,10,1,,10.7
+46,Red,Cylindrical,110,300,2,1,1,,10.7
+46,Red,Cylindrical,110,300,2,2,1,,10.8
+46,Red,Cylindrical,110,300,2,3,1,,10.7
+46,Red,Cylindrical,110,300,2,4,1,,10.9
+46,Red,Cylindrical,110,300,2,5,1,,10.6
+46,Red,Cylindrical,110,300,2,6,1,,10.8
+46,Red,Cylindrical,110,300,2,7,1,,10.7
+46,Red,Cylindrical,110,300,2,8,1,,10.8
+46,Red,Cylindrical,110,300,2,9,1,,10.9
+46,Red,Cylindrical,110,300,2,10,1,,10.8
+47,Red,Rectangular,110,300,2,1,1,,10.9
+47,Red,Rectangular,110,300,2,2,1,,10.7
+47,Red,Rectangular,110,300,2,3,1,,12.3
+47,Red,Rectangular,110,300,2,4,1,,10.9
+47,Red,Rectangular,110,300,2,5,1,,10.8
+47,Red,Rectangular,110,300,2,6,1,,10.7
+47,Red,Rectangular,110,300,2,7,1,,11.4
+47,Red,Rectangular,110,300,2,8,1,,10.6
+47,Red,Rectangular,110,300,2,9,0,wrong_orientation,
+47,Red,Rectangular,110,300,2,10,1,,10.8
+48,Pink,Cylindrical,110,250,1,1,0,wrong_orientation,
+48,Pink,Cylindrical,110,250,1,2,1,,10.8
+48,Pink,Cylindrical,110,250,1,3,1,,10.8
+48,Pink,Cylindrical,110,250,1,4,0,wrong_orientation,
+48,Pink,Cylindrical,110,250,1,5,1,,10.8
+48,Pink,Cylindrical,110,250,1,6,1,,10.6
+48,Pink,Cylindrical,110,250,1,7,0,wrong_orientation,
+48,Pink,Cylindrical,110,250,1,8,1,,10.7
+48,Pink,Cylindrical,110,250,1,9,1,,10.8
+48,Pink,Cylindrical,110,250,1,10,0,wrong_orientation,
+49,Pink,Cylindrical,360,300,1,1,1,,10.8
+49,Pink,Cylindrical,360,300,1,2,0,wrong_orientation,
+49,Pink,Cylindrical,360,300,1,3,0,wrong_orientation,
+49,Pink,Cylindrical,360,300,1,4,0,wrong_orientation,
+49,Pink,Cylindrical,360,300,1,5,0,wrong_orientation,
+49,Pink,Cylindrical,360,300,1,6,0,wrong_orientation,
+49,Pink,Cylindrical,360,300,1,7,0,wrong_orientation,
+49,Pink,Cylindrical,360,300,1,8,0,wrong_orientation,
+49,Pink,Cylindrical,360,300,1,9,0,wrong_orientation,
+49,Pink,Cylindrical,360,300,1,10,0,wrong_orientation,
+50,Lime Green,Cylindrical,360,300,1,1,0,wrong_orientation,
+50,Lime Green,Cylindrical,360,300,1,2,0,could_not_focus,
+50,Lime Green,Cylindrical,360,300,1,3,0,wrong_orientation,
+50,Lime Green,Cylindrical,360,300,1,4,0,wrong_orientation,
+50,Lime Green,Cylindrical,360,300,1,5,0,wrong_orientation,
+50,Lime Green,Cylindrical,360,300,1,6,0,wrong_orientation,
+50,Lime Green,Cylindrical,360,300,1,7,0,wrong_orientation,
+50,Lime Green,Cylindrical,360,300,1,8,0,wrong_orientation,
+50,Lime Green,Cylindrical,360,300,1,9,0,wrong_orientation,
+50,Lime Green,Cylindrical,360,300,1,10,0,wrong_orientation,
+51,Royal Blue,Cylindrical,110,300,2,1,0,wrong_orientation,
+51,Royal Blue,Cylindrical,110,300,2,2,1,,10.8
+51,Royal Blue,Cylindrical,110,300,2,3,0,wrong_orientation,
+51,Royal Blue,Cylindrical,110,300,2,4,0,wrong_orientation,
+51,Royal Blue,Cylindrical,110,300,2,5,0,wrong_orientation,
+51,Royal Blue,Cylindrical,110,300,2,6,0,wrong_orientation,
+51,Royal Blue,Cylindrical,110,300,2,7,0,wrong_orientation,
+51,Royal Blue,Cylindrical,110,300,2,8,0,wrong_orientation,
+51,Royal Blue,Cylindrical,110,300,2,9,1,,10.6
+51,Royal Blue,Cylindrical,110,300,2,10,0,wrong_orientation,
+52,Red,Cylindrical,110,250,1,1,1,,10.6
+52,Red,Cylindrical,110,250,1,2,1,,10.6
+52,Red,Cylindrical,110,250,1,3,1,,10.7
+52,Red,Cylindrical,110,250,1,4,1,,10.9
+52,Red,Cylindrical,110,250,1,5,1,,10.6
+52,Red,Cylindrical,110,250,1,6,1,,10.7
+52,Red,Cylindrical,110,250,1,7,1,,10.7
+52,Red,Cylindrical,110,250,1,8,1,,10.6
+52,Red,Cylindrical,110,250,1,9,1,,10.8
+52,Red,Cylindrical,110,250,1,10,1,,10.7
+53,Royal Blue,Rectangular,110,300,1,1,1,,10.7
+53,Royal Blue,Rectangular,110,300,1,2,1,,10.8
+53,Royal Blue,Rectangular,110,300,1,3,1,,10.8
+53,Royal Blue,Rectangular,110,300,1,4,0,wrong_orientation,
+53,Royal Blue,Rectangular,110,300,1,5,0,wrong_orientation,
+53,Royal Blue,Rectangular,110,300,1,6,1,,10.9
+53,Royal Blue,Rectangular,110,300,1,7,0,wrong_orientation,
+53,Royal Blue,Rectangular,110,300,1,8,1,,10.8
+53,Royal Blue,Rectangular,110,300,1,9,1,,10.7
+53,Royal Blue,Rectangular,110,300,1,10,1,,10.9
+54,Royal Blue,Cylindrical,110,250,1,1,1,,10.6
+54,Royal Blue,Cylindrical,110,250,1,2,1,,10.7
+54,Royal Blue,Cylindrical,110,250,1,3,1,,10.6
+54,Royal Blue,Cylindrical,110,250,1,4,1,,10.8
+54,Royal Blue,Cylindrical,110,250,1,5,1,,10.6
+54,Royal Blue,Cylindrical,110,250,1,6,1,,10.7
+54,Royal Blue,Cylindrical,110,250,1,7,1,,10.6
+54,Royal Blue,Cylindrical,110,250,1,8,1,,10.7
+54,Royal Blue,Cylindrical,110,250,1,9,1,,10.5
+54,Royal Blue,Cylindrical,110,250,1,10,0,wrong_orientation,
+55,Lime Green,Cylindrical,110,300,1,1,0,wrong_orientation,
+55,Lime Green,Cylindrical,110,300,1,2,1,,10.6
+55,Lime Green,Cylindrical,110,300,1,3,0,mating_failed_correct_orientation,
+55,Lime Green,Cylindrical,110,300,1,4,1,,12.2
+55,Lime Green,Cylindrical,110,300,1,5,0,wrong_orientation,
+55,Lime Green,Cylindrical,110,300,1,6,0,wrong_orientation,
+55,Lime Green,Cylindrical,110,300,1,7,1,,10.6
+55,Lime Green,Cylindrical,110,300,1,8,1,,12.3
+55,Lime Green,Cylindrical,110,300,1,9,0,wrong_orientation,
+55,Lime Green,Cylindrical,110,300,1,10,0,wrong_orientation,
+56,Royal Blue,Rectangular,360,300,2,1,1,,10.8
+56,Royal Blue,Rectangular,360,300,2,2,1,,10.7
+56,Royal Blue,Rectangular,360,300,2,3,1,,10.7
+56,Royal Blue,Rectangular,360,300,2,4,1,,10.7
+56,Royal Blue,Rectangular,360,300,2,5,1,,10.7
+56,Royal Blue,Rectangular,360,300,2,6,1,,10.8
+56,Royal Blue,Rectangular,360,300,2,7,1,,10.9
+56,Royal Blue,Rectangular,360,300,2,8,1,,10.7
+56,Royal Blue,Rectangular,360,300,2,9,1,,10.7
+56,Royal Blue,Rectangular,360,300,2,10,0,wrong_orientation,
+57,Lime Green,Cylindrical,110,250,1,1,1,,10.7
+57,Lime Green,Cylindrical,110,250,1,2,1,,10.6
+57,Lime Green,Cylindrical,110,250,1,3,1,,10.8
+57,Lime Green,Cylindrical,110,250,1,4,1,,10.6
+57,Lime Green,Cylindrical,110,250,1,5,1,,10.7
+57,Lime Green,Cylindrical,110,250,1,6,1,,10.7
+57,Lime Green,Cylindrical,110,250,1,7,1,,10.7
+57,Lime Green,Cylindrical,110,250,1,8,0,mating_failed_correct_orientation,
+57,Lime Green,Cylindrical,110,250,1,9,1,,10.7
+57,Lime Green,Cylindrical,110,250,1,10,1,,10.6
+58,Lime Green,Rectangular,110,250,2,1,1,,10.7
+58,Lime Green,Rectangular,110,250,2,2,1,,10.6
+58,Lime Green,Rectangular,110,250,2,3,1,,10.8
+58,Lime Green,Rectangular,110,250,2,4,1,,10.9
+58,Lime Green,Rectangular,110,250,2,5,1,,10.7
+58,Lime Green,Rectangular,110,250,2,6,1,,10.7
+58,Lime Green,Rectangular,110,250,2,7,0,wrong_orientation,
+58,Lime Green,Rectangular,110,250,2,8,1,,10.8
+58,Lime Green,Rectangular,110,250,2,9,1,,10.8
+58,Lime Green,Rectangular,110,250,2,10,1,,10.7
+59,Red,Cylindrical,110,300,1,1,1,,10.7
+59,Red,Cylindrical,110,300,1,2,1,,10.7
+59,Red,Cylindrical,110,300,1,3,1,,10.8
+59,Red,Cylindrical,110,300,1,4,1,,10.8
+59,Red,Cylindrical,110,300,1,5,1,,10.6
+59,Red,Cylindrical,110,300,1,6,1,,10.7
+59,Red,Cylindrical,110,300,1,7,1,,10.8
+59,Red,Cylindrical,110,300,1,8,1,,10.7
+59,Red,Cylindrical,110,300,1,9,1,,10.7
+59,Red,Cylindrical,110,300,1,10,1,,10.6
+60,Royal Blue,Rectangular,360,300,1,1,1,,10.7
+60,Royal Blue,Rectangular,360,300,1,2,1,,10.8
+60,Royal Blue,Rectangular,360,300,1,3,1,,10.7
+60,Royal Blue,Rectangular,360,300,1,4,1,,10.7
+60,Royal Blue,Rectangular,360,300,1,5,1,,10.6
+60,Royal Blue,Rectangular,360,300,1,6,1,,10.7
+60,Royal Blue,Rectangular,360,300,1,7,1,,10.6
+60,Royal Blue,Rectangular,360,300,1,8,1,,10.8
+60,Royal Blue,Rectangular,360,300,1,9,1,,10.6
+60,Royal Blue,Rectangular,360,300,1,10,1,,10.8
+61,Red,Cylindrical,360,250,1,1,0,mating_failed_correct_orientation,
+61,Red,Cylindrical,360,250,1,2,1,,10.6
+61,Red,Cylindrical,360,250,1,3,1,,10.7
+61,Red,Cylindrical,360,250,1,4,1,,10.6
+61,Red,Cylindrical,360,250,1,5,1,,12.5
+61,Red,Cylindrical,360,250,1,6,1,,10.6
+61,Red,Cylindrical,360,250,1,7,1,,10.8
+61,Red,Cylindrical,360,250,1,8,1,,10.6
+61,Red,Cylindrical,360,250,1,9,1,,10.6
+61,Red,Cylindrical,360,250,1,10,1,,10.8
+62,Red,Rectangular,110,250,2,1,1,,10.8
+62,Red,Rectangular,110,250,2,2,1,,10.8
+62,Red,Rectangular,110,250,2,3,1,,10.7
+62,Red,Rectangular,110,250,2,4,1,,10.5
+62,Red,Rectangular,110,250,2,5,1,,10.6
+62,Red,Rectangular,110,250,2,6,1,,10.6
+62,Red,Rectangular,110,250,2,7,1,,10.6
+62,Red,Rectangular,110,250,2,8,1,,10.7
+62,Red,Rectangular,110,250,2,9,0,wrong_orientation,
+62,Red,Rectangular,110,250,2,10,1,,10.5
+63,Pink,Rectangular,360,300,1,1,0,bottom_part_not_recognized,
+63,Pink,Rectangular,360,300,1,2,1,,10.8
+63,Pink,Rectangular,360,300,1,3,0,bottom_part_not_recognized,
+63,Pink,Rectangular,360,300,1,4,1,,10.7
+63,Pink,Rectangular,360,300,1,5,1,,10.8
+63,Pink,Rectangular,360,300,1,6,0,wrong_orientation,
+63,Pink,Rectangular,360,300,1,7,0,wrong_orientation,
+63,Pink,Rectangular,360,300,1,8,0,mating_failed_correct_orientation,
+63,Pink,Rectangular,360,300,1,9,1,,10.7
+63,Pink,Rectangular,360,300,1,10,1,,10.7
+64,Royal Blue,Rectangular,360,250,1,1,1,,10.8
+64,Royal Blue,Rectangular,360,250,1,2,1,,10.9
+64,Royal Blue,Rectangular,360,250,1,3,1,,10.9
+64,Royal Blue,Rectangular,360,250,1,4,1,,10.6
+64,Royal Blue,Rectangular,360,250,1,5,1,,10.8
+64,Royal Blue,Rectangular,360,250,1,6,1,,10.6
+64,Royal Blue,Rectangular,360,250,1,7,0,wrong_orientation,
+64,Royal Blue,Rectangular,360,250,1,8,1,,10.6
+64,Royal Blue,Rectangular,360,250,1,9,1,,10.8
+64,Royal Blue,Rectangular,360,250,1,10,1,,10.6
+65,Royal Blue,Hexagonal,110,300,1,1,1,,8.7
+65,Royal Blue,Hexagonal,110,300,1,2,1,,8.8
+65,Royal Blue,Hexagonal,110,300,1,3,0,wrong_orientation,
+65,Royal Blue,Hexagonal,110,300,1,4,1,,8.6
+65,Royal Blue,Hexagonal,110,300,1,5,0,wrong_orientation,
+65,Royal Blue,Hexagonal,110,300,1,6,0,wrong_orientation,
+65,Royal Blue,Hexagonal,110,300,1,7,1,,6.4
+65,Royal Blue,Hexagonal,110,300,1,8,1,,8.2
+65,Royal Blue,Hexagonal,110,300,1,9,1,,8.6
+65,Royal Blue,Hexagonal,110,300,1,10,1,,6.9
+66,Pink,Hexagonal,360,250,2,1,1,,6.3
+66,Pink,Hexagonal,360,250,2,2,1,,7.2
+66,Pink,Hexagonal,360,250,2,3,1,,6.5
+66,Pink,Hexagonal,360,250,2,4,1,,6.2
+66,Pink,Hexagonal,360,250,2,5,1,,7.3
+66,Pink,Hexagonal,360,250,2,6,1,,7.4
+66,Pink,Hexagonal,360,250,2,7,1,,6.4
+66,Pink,Hexagonal,360,250,2,8,1,,6.7
+66,Pink,Hexagonal,360,250,2,9,0,wrong_orientation,
+66,Pink,Hexagonal,360,250,2,10,0,bottom_part_not_recognized,
+67,Royal Blue,Hexagonal,360,300,1,1,1,,6.4
+67,Royal Blue,Hexagonal,360,300,1,2,1,,6.5
+67,Royal Blue,Hexagonal,360,300,1,3,1,,6.3
+67,Royal Blue,Hexagonal,360,300,1,4,0,wrong_orientation,
+67,Royal Blue,Hexagonal,360,300,1,5,0,wrong_orientation,
+67,Royal Blue,Hexagonal,360,300,1,6,1,,6.4
+67,Royal Blue,Hexagonal,360,300,1,7,1,,6.3
+67,Royal Blue,Hexagonal,360,300,1,8,1,,6.5
+67,Royal Blue,Hexagonal,360,300,1,9,1,,6.4
+67,Royal Blue,Hexagonal,360,300,1,10,1,,6.3
+68,Red,Trapezium,110,300,1,1,1,,10.6
+68,Red,Trapezium,110,300,1,2,1,,10.7
+68,Red,Trapezium,110,300,1,3,1,,10.7
+68,Red,Trapezium,110,300,1,4,1,,10.6
+68,Red,Trapezium,110,300,1,5,1,,10.7
+68,Red,Trapezium,110,300,1,6,1,,10.6
+68,Red,Trapezium,110,300,1,7,1,,10.75
+68,Red,Trapezium,110,300,1,8,1,,10.7
+68,Red,Trapezium,110,300,1,9,1,,10.7
+68,Red,Trapezium,110,300,1,10,1,,10.7
+69,Royal Blue,Trapezium,360,250,1,1,1,,10.7
+69,Royal Blue,Trapezium,360,250,1,2,1,,10.8
+69,Royal Blue,Trapezium,360,250,1,3,1,,10.7
+69,Royal Blue,Trapezium,360,250,1,4,1,,10.7
+69,Royal Blue,Trapezium,360,250,1,5,1,,10.6
+69,Royal Blue,Trapezium,360,250,1,6,1,,10.7
+69,Royal Blue,Trapezium,360,250,1,7,1,,10.8
+69,Royal Blue,Trapezium,360,250,1,8,1,,10.7
+69,Royal Blue,Trapezium,360,250,1,9,1,,10.6
+69,Royal Blue,Trapezium,360,250,1,10,1,,10.7
+70,Pink,Hexagonal,110,250,2,1,1,,6.4
+70,Pink,Hexagonal,110,250,2,2,0,wrong_orientation,
+70,Pink,Hexagonal,110,250,2,3,0,wrong_orientation,
+70,Pink,Hexagonal,110,250,2,4,1,,6.6
+70,Pink,Hexagonal,110,250,2,5,1,,6.7
+70,Pink,Hexagonal,110,250,2,6,1,,6.5
+70,Pink,Hexagonal,110,250,2,7,1,,6.6
+70,Pink,Hexagonal,110,250,2,8,1,,6.7
+70,Pink,Hexagonal,110,250,2,9,1,,6.6
+70,Pink,Hexagonal,110,250,2,10,0,wrong_orientation,
+71,Royal Blue,Hexagonal,360,300,2,1,1,,6.5
+71,Royal Blue,Hexagonal,360,300,2,2,0,could_not_focus,
+71,Royal Blue,Hexagonal,360,300,2,3,0,wrong_orientation,
+71,Royal Blue,Hexagonal,360,300,2,4,1,,6.4
+71,Royal Blue,Hexagonal,360,300,2,5,0,wrong_orientation,
+71,Royal Blue,Hexagonal,360,300,2,6,1,,6.6
+71,Royal Blue,Hexagonal,360,300,2,7,1,,6.5
+71,Royal Blue,Hexagonal,360,300,2,8,0,wrong_orientation,
+71,Royal Blue,Hexagonal,360,300,2,9,1,,6.5
+71,Royal Blue,Hexagonal,360,300,2,10,1,,6.5
+72,Royal Blue,Hexagonal,360,250,2,1,0,wrong_orientation,
+72,Royal Blue,Hexagonal,360,250,2,2,1,,6.4
+72,Royal Blue,Hexagonal,360,250,2,3,1,,6.3
+72,Royal Blue,Hexagonal,360,250,2,4,0,wrong_orientation,
+72,Royal Blue,Hexagonal,360,250,2,5,1,,6.2
+72,Royal Blue,Hexagonal,360,250,2,6,1,,6.3
+72,Royal Blue,Hexagonal,360,250,2,7,1,,6.4
+72,Royal Blue,Hexagonal,360,250,2,8,0,wrong_orientation,
+72,Royal Blue,Hexagonal,360,250,2,9,1,,6.2
+72,Royal Blue,Hexagonal,360,250,2,10,0,could_not_focus,
+73,Red,Trapezium,110,250,2,1,1,,10.9
+73,Red,Trapezium,110,250,2,2,1,,11.9
+73,Red,Trapezium,110,250,2,3,1,,11.6
+73,Red,Trapezium,110,250,2,4,1,,10.6
+73,Red,Trapezium,110,250,2,5,1,,10.8
+73,Red,Trapezium,110,250,2,6,1,,10.6
+73,Red,Trapezium,110,250,2,7,1,,10.8
+73,Red,Trapezium,110,250,2,8,1,,10.6
+73,Red,Trapezium,110,250,2,9,1,,10.7
+73,Red,Trapezium,110,250,2,10,1,,10.7
+74,Royal Blue,Hexagonal,110,250,1,1,1,,7.2
+74,Royal Blue,Hexagonal,110,250,1,2,1,,7.3
+74,Royal Blue,Hexagonal,110,250,1,3,1,,7.0
+74,Royal Blue,Hexagonal,110,250,1,4,1,,7.1
+74,Royal Blue,Hexagonal,110,250,1,5,1,,6.9
+74,Royal Blue,Hexagonal,110,250,1,6,1,,6.9
+74,Royal Blue,Hexagonal,110,250,1,7,1,,6.8
+74,Royal Blue,Hexagonal,110,250,1,8,0,wrong_orientation,
+74,Royal Blue,Hexagonal,110,250,1,9,1,,6.9
+74,Royal Blue,Hexagonal,110,250,1,10,1,,7.1
+75,Red,Trapezium,360,250,1,1,1,,10.6
+75,Red,Trapezium,360,250,1,2,0,could_not_focus,
+75,Red,Trapezium,360,250,1,3,1,,10.6
+75,Red,Trapezium,360,250,1,4,1,,10.7
+75,Red,Trapezium,360,250,1,5,1,,10.5
+75,Red,Trapezium,360,250,1,6,1,,10.7
+75,Red,Trapezium,360,250,1,7,1,,10.7
+75,Red,Trapezium,360,250,1,8,1,,10.7
+75,Red,Trapezium,360,250,1,9,1,,10.7
+75,Red,Trapezium,360,250,1,10,1,,10.8
+76,Lime Green,Trapezium,360,300,1,1,1,,10.8
+76,Lime Green,Trapezium,360,300,1,2,1,,10.7
+76,Lime Green,Trapezium,360,300,1,3,0,could_not_focus,
+76,Lime Green,Trapezium,360,300,1,4,1,,10.8
+76,Lime Green,Trapezium,360,300,1,5,1,,10.8
+76,Lime Green,Trapezium,360,300,1,6,1,,10.8
+76,Lime Green,Trapezium,360,300,1,7,1,,10.9
+76,Lime Green,Trapezium,360,300,1,8,1,,10.7
+76,Lime Green,Trapezium,360,300,1,9,1,,10.8
+76,Lime Green,Trapezium,360,300,1,10,1,,10.7
+77,Pink,Trapezium,360,250,1,1,1,,11.6
+77,Pink,Trapezium,360,250,1,2,1,,10.8
+77,Pink,Trapezium,360,250,1,3,1,,10.8
+77,Pink,Trapezium,360,250,1,4,1,,10.6
+77,Pink,Trapezium,360,250,1,5,1,,10.6
+77,Pink,Trapezium,360,250,1,6,1,,10.9
+77,Pink,Trapezium,360,250,1,7,1,,10.6
+77,Pink,Trapezium,360,250,1,8,1,,10.7
+77,Pink,Trapezium,360,250,1,9,1,,10.9
+77,Pink,Trapezium,360,250,1,10,0,mating_failed_correct_orientation,
+78,Lime Green,Hexagonal,110,300,1,1,1,,6.5
+78,Lime Green,Hexagonal,110,300,1,2,1,,6.6
+78,Lime Green,Hexagonal,110,300,1,3,0,wrong_orientation,
+78,Lime Green,Hexagonal,110,300,1,4,1,,6.6
+78,Lime Green,Hexagonal,110,300,1,5,0,wrong_orientation,
+78,Lime Green,Hexagonal,110,300,1,6,0,wrong_orientation,
+78,Lime Green,Hexagonal,110,300,1,7,1,,6.4
+78,Lime Green,Hexagonal,110,300,1,8,1,,6.3
+78,Lime Green,Hexagonal,110,300,1,9,1,,6.5
+78,Lime Green,Hexagonal,110,300,1,10,1,,6.4
+79,Red,Trapezium,360,300,1,1,1,,10.7
+79,Red,Trapezium,360,300,1,2,1,,10.9
+79,Red,Trapezium,360,300,1,3,1,,10.7
+79,Red,Trapezium,360,300,1,4,1,,10.9
+79,Red,Trapezium,360,300,1,5,1,,10.8
+79,Red,Trapezium,360,300,1,6,1,,10.7
+79,Red,Trapezium,360,300,1,7,1,,10.6
+79,Red,Trapezium,360,300,1,8,1,,10.8
+79,Red,Trapezium,360,300,1,9,1,,10.7
+79,Red,Trapezium,360,300,1,10,1,,10.7
+80,Red,Trapezium,110,250,1,1,1,,10.9
+80,Red,Trapezium,110,250,1,2,1,,10.8
+80,Red,Trapezium,110,250,1,3,1,,10.5
+80,Red,Trapezium,110,250,1,4,1,,10.9
+80,Red,Trapezium,110,250,1,5,1,,10.7
+80,Red,Trapezium,110,250,1,6,1,,10.7
+80,Red,Trapezium,110,250,1,7,1,,10.9
+80,Red,Trapezium,110,250,1,8,1,,10.6
+80,Red,Trapezium,110,250,1,9,1,,11.7
+80,Red,Trapezium,110,250,1,10,1,,10.8
+81,Royal Blue,Trapezium,110,250,1,1,1,,10.8
+81,Royal Blue,Trapezium,110,250,1,2,1,,10.9
+81,Royal Blue,Trapezium,110,250,1,3,1,,10.7
+81,Royal Blue,Trapezium,110,250,1,4,1,,10.8
+81,Royal Blue,Trapezium,110,250,1,5,1,,10.8
+81,Royal Blue,Trapezium,110,250,1,6,1,,10.8
+81,Royal Blue,Trapezium,110,250,1,7,1,,10.7
+81,Royal Blue,Trapezium,110,250,1,8,1,,10.9
+81,Royal Blue,Trapezium,110,250,1,9,1,,10.6
+81,Royal Blue,Trapezium,110,250,1,10,1,,10.7
+82,Red,Hexagonal,360,250,1,1,0,could_not_focus,
+82,Red,Hexagonal,360,250,1,2,0,could_not_focus,
+82,Red,Hexagonal,360,250,1,3,1,,6.7
+82,Red,Hexagonal,360,250,1,4,1,,6.5
+82,Red,Hexagonal,360,250,1,5,1,,6.3
+82,Red,Hexagonal,360,250,1,6,1,,6.4
+82,Red,Hexagonal,360,250,1,7,1,,6.5
+82,Red,Hexagonal,360,250,1,8,1,,6.5
+82,Red,Hexagonal,360,250,1,9,1,,6.3
+82,Red,Hexagonal,360,250,1,10,1,,6.4
+83,Red,Hexagonal,110,300,2,1,0,wrong_orientation,
+83,Red,Hexagonal,110,300,2,2,1,,6.6
+83,Red,Hexagonal,110,300,2,3,1,,6.5
+83,Red,Hexagonal,110,300,2,4,1,,6.5
+83,Red,Hexagonal,110,300,2,5,1,,6.3
+83,Red,Hexagonal,110,300,2,6,1,,6.6
+83,Red,Hexagonal,110,300,2,7,1,,6.3
+83,Red,Hexagonal,110,300,2,8,1,,6.4
+83,Red,Hexagonal,110,300,2,9,1,,6.4
+83,Red,Hexagonal,110,300,2,10,1,,6.8
+84,Red,Hexagonal,110,250,2,1,1,,6.6
+84,Red,Hexagonal,110,250,2,2,1,,6.4
+84,Red,Hexagonal,110,250,2,3,1,,6.6
+84,Red,Hexagonal,110,250,2,4,1,,6.6
+84,Red,Hexagonal,110,250,2,5,1,,6.7
+84,Red,Hexagonal,110,250,2,6,1,,8.2
+84,Red,Hexagonal,110,250,2,7,1,,6.7
+84,Red,Hexagonal,110,250,2,8,1,,6.7
+84,Red,Hexagonal,110,250,2,9,1,,6.7
+84,Red,Hexagonal,110,250,2,10,1,,6.8
+85,Lime Green,Hexagonal,110,250,1,1,1,,6.7
+85,Lime Green,Hexagonal,110,250,1,2,1,,7.5
+85,Lime Green,Hexagonal,110,250,1,3,1,,6.7
+85,Lime Green,Hexagonal,110,250,1,4,1,,6.6
+85,Lime Green,Hexagonal,110,250,1,5,1,,8.5
+85,Lime Green,Hexagonal,110,250,1,6,1,,6.7
+85,Lime Green,Hexagonal,110,250,1,7,1,,7.4
+85,Lime Green,Hexagonal,110,250,1,8,1,,6.8
+85,Lime Green,Hexagonal,110,250,1,9,1,,6.5
+85,Lime Green,Hexagonal,110,250,1,10,1,,6.7
+86,Pink,Trapezium,110,300,2,1,1,,10.8
+86,Pink,Trapezium,110,300,2,2,1,,10.7
+86,Pink,Trapezium,110,300,2,3,1,,10.9
+86,Pink,Trapezium,110,300,2,4,1,,10.7
+86,Pink,Trapezium,110,300,2,5,1,,10.8
+86,Pink,Trapezium,110,300,2,6,1,,10.7
+86,Pink,Trapezium,110,300,2,7,1,,10.7
+86,Pink,Trapezium,110,300,2,8,1,,10.7
+86,Pink,Trapezium,110,300,2,9,1,,10.8
+86,Pink,Trapezium,110,300,2,10,1,,10.6
+87,Lime Green,Trapezium,110,300,1,1,1,,10.7
+87,Lime Green,Trapezium,110,300,1,2,1,,12.0
+87,Lime Green,Trapezium,110,300,1,3,1,,10.9
+87,Lime Green,Trapezium,110,300,1,4,1,,10.7
+87,Lime Green,Trapezium,110,300,1,5,1,,10.7
+87,Lime Green,Trapezium,110,300,1,6,1,,10.9
+87,Lime Green,Trapezium,110,300,1,7,1,,10.9
+87,Lime Green,Trapezium,110,300,1,8,1,,10.6
+87,Lime Green,Trapezium,110,300,1,9,1,,10.7
+87,Lime Green,Trapezium,110,300,1,10,1,,10.9
+88,Pink,Hexagonal,110,300,2,1,1,,6.7
+88,Pink,Hexagonal,110,300,2,2,1,,6.5
+88,Pink,Hexagonal,110,300,2,3,1,,8.2
+88,Pink,Hexagonal,110,300,2,4,0,could_not_focus,
+88,Pink,Hexagonal,110,300,2,5,0,wrong_orientation,
+88,Pink,Hexagonal,110,300,2,6,0,wrong_orientation,
+88,Pink,Hexagonal,110,300,2,7,1,,8.1
+88,Pink,Hexagonal,110,300,2,8,0,wrong_orientation,
+88,Pink,Hexagonal,110,300,2,9,1,,6.5
+88,Pink,Hexagonal,110,300,2,10,1,,6.7
+89,Lime Green,Trapezium,360,300,2,1,0,bottom_part_not_recognized,
+89,Lime Green,Trapezium,360,300,2,2,1,,10.9
+89,Lime Green,Trapezium,360,300,2,3,1,,10.7
+89,Lime Green,Trapezium,360,300,2,4,1,,10.9
+89,Lime Green,Trapezium,360,300,2,5,1,,10.9
+89,Lime Green,Trapezium,360,300,2,6,1,,10.7
+89,Lime Green,Trapezium,360,300,2,7,1,,10.8
+89,Lime Green,Trapezium,360,300,2,8,1,,10.9
+89,Lime Green,Trapezium,360,300,2,9,1,,10.6
+89,Lime Green,Trapezium,360,300,2,10,1,,10.8
+90,Lime Green,Hexagonal,360,250,1,1,1,,6.1
+90,Lime Green,Hexagonal,360,250,1,2,0,wrong_orientation,
+90,Lime Green,Hexagonal,360,250,1,3,0,wrong_orientation,
+90,Lime Green,Hexagonal,360,250,1,4,1,,6.7
+90,Lime Green,Hexagonal,360,250,1,5,1,,6.5
+90,Lime Green,Hexagonal,360,250,1,6,0,wrong_orientation,
+90,Lime Green,Hexagonal,360,250,1,7,0,bottom_part_not_recognized,
+90,Lime Green,Hexagonal,360,250,1,8,1,,6.2
+90,Lime Green,Hexagonal,360,250,1,9,1,,6.4
+90,Lime Green,Hexagonal,360,250,1,10,0,wrong_orientation,
+91,Royal Blue,Trapezium,110,300,1,1,1,,10.8
+91,Royal Blue,Trapezium,110,300,1,2,1,,10.8
+91,Royal Blue,Trapezium,110,300,1,3,1,,10.9
+91,Royal Blue,Trapezium,110,300,1,4,1,,10.9
+91,Royal Blue,Trapezium,110,300,1,5,1,,10.7
+91,Royal Blue,Trapezium,110,300,1,6,1,,10.6
+91,Royal Blue,Trapezium,110,300,1,7,1,,10.8
+91,Royal Blue,Trapezium,110,300,1,8,1,,12.3
+91,Royal Blue,Trapezium,110,300,1,9,1,,11.1
+91,Royal Blue,Trapezium,110,300,1,10,1,,10.7
+92,Pink,Hexagonal,110,300,1,1,1,,6.5
+92,Pink,Hexagonal,110,300,1,2,1,,6.6
+92,Pink,Hexagonal,110,300,1,3,1,,7.9
+92,Pink,Hexagonal,110,300,1,4,1,,6.4
+92,Pink,Hexagonal,110,300,1,5,1,,6.7
+92,Pink,Hexagonal,110,300,1,6,0,wrong_orientation,
+92,Pink,Hexagonal,110,300,1,7,1,,8.0
+92,Pink,Hexagonal,110,300,1,8,1,,6.5
+92,Pink,Hexagonal,110,300,1,9,1,,6.5
+92,Pink,Hexagonal,110,300,1,10,1,,6.6
+93,Pink,Hexagonal,360,300,2,1,1,,6.1
+93,Pink,Hexagonal,360,300,2,2,1,,6.5
+93,Pink,Hexagonal,360,300,2,3,1,,6.6
+93,Pink,Hexagonal,360,300,2,4,0,wrong_orientation,
+93,Pink,Hexagonal,360,300,2,5,1,,6.9
+93,Pink,Hexagonal,360,300,2,6,0,bottom_part_not_recognized,
+93,Pink,Hexagonal,360,300,2,7,1,,6.4
+93,Pink,Hexagonal,360,300,2,8,0,bottom_part_not_recognized,
+93,Pink,Hexagonal,360,300,2,9,0,bottom_part_not_recognized,
+93,Pink,Hexagonal,360,300,2,10,1,,6.7
+94,Lime Green,Trapezium,110,250,2,1,1,,10.7
+94,Lime Green,Trapezium,110,250,2,2,1,,10.8
+94,Lime Green,Trapezium,110,250,2,3,1,,10.9
+94,Lime Green,Trapezium,110,250,2,4,1,,10.8
+94,Lime Green,Trapezium,110,250,2,5,1,,10.7
+94,Lime Green,Trapezium,110,250,2,6,1,,10.7
+94,Lime Green,Trapezium,110,250,2,7,1,,10.9
+94,Lime Green,Trapezium,110,250,2,8,1,,10.7
+94,Lime Green,Trapezium,110,250,2,9,1,,12.2
+94,Lime Green,Trapezium,110,250,2,10,1,,11.9
+95,Lime Green,Trapezium,110,250,1,1,1,,10.7
+95,Lime Green,Trapezium,110,250,1,2,1,,10.8
+95,Lime Green,Trapezium,110,250,1,3,1,,10.9
+95,Lime Green,Trapezium,110,250,1,4,1,,10.7
+95,Lime Green,Trapezium,110,250,1,5,1,,10.9
+95,Lime Green,Trapezium,110,250,1,6,1,,10.7
+95,Lime Green,Trapezium,110,250,1,7,1,,10.9
+95,Lime Green,Trapezium,110,250,1,8,1,,10.9
+95,Lime Green,Trapezium,110,250,1,9,1,,10.8
+95,Lime Green,Trapezium,110,250,1,10,1,,10.9
+96,Red,Hexagonal,360,300,2,1,1,,6.6
+96,Red,Hexagonal,360,300,2,2,1,,6.6
+96,Red,Hexagonal,360,300,2,3,1,,6.5
+96,Red,Hexagonal,360,300,2,4,1,,6.5
+96,Red,Hexagonal,360,300,2,5,0,wrong_orientation,
+96,Red,Hexagonal,360,300,2,6,1,,6.3
+96,Red,Hexagonal,360,300,2,7,1,,6.7
+96,Red,Hexagonal,360,300,2,8,1,,6.2
+96,Red,Hexagonal,360,300,2,9,1,,6.2
+96,Red,Hexagonal,360,300,2,10,1,,6.5
+97,Lime Green,Hexagonal,360,250,2,1,1,,6.5
+97,Lime Green,Hexagonal,360,250,2,2,0,wrong_orientation,
+97,Lime Green,Hexagonal,360,250,2,3,1,,6.5
+97,Lime Green,Hexagonal,360,250,2,4,1,,6.4
+97,Lime Green,Hexagonal,360,250,2,5,1,,6.6
+97,Lime Green,Hexagonal,360,250,2,6,1,,6.3
+97,Lime Green,Hexagonal,360,250,2,7,1,,6.4
+97,Lime Green,Hexagonal,360,250,2,8,0,wrong_orientation,
+97,Lime Green,Hexagonal,360,250,2,9,1,,6.3
+97,Lime Green,Hexagonal,360,250,2,10,1,,6.6
+98,Pink,Hexagonal,360,250,1,1,1,,6.8
+98,Pink,Hexagonal,360,250,1,2,1,,6.6
+98,Pink,Hexagonal,360,250,1,3,1,,6.4
+98,Pink,Hexagonal,360,250,1,4,1,,6.5
+98,Pink,Hexagonal,360,250,1,5,1,,6.5
+98,Pink,Hexagonal,360,250,1,6,1,,6.4
+98,Pink,Hexagonal,360,250,1,7,0,wrong_orientation,
+98,Pink,Hexagonal,360,250,1,8,0,wrong_orientation,
+98,Pink,Hexagonal,360,250,1,9,1,,6.4
+98,Pink,Hexagonal,360,250,1,10,0,bottom_part_not_recognized,
+99,Lime Green,Trapezium,360,250,2,1,1,,10.9
+99,Lime Green,Trapezium,360,250,2,2,1,,10.8
+99,Lime Green,Trapezium,360,250,2,3,1,,10.9
+99,Lime Green,Trapezium,360,250,2,4,1,,10.7
+99,Lime Green,Trapezium,360,250,2,5,1,,10.7
+99,Lime Green,Trapezium,360,250,2,6,1,,10.7
+99,Lime Green,Trapezium,360,250,2,7,1,,10.6
+99,Lime Green,Trapezium,360,250,2,8,1,,10.7
+99,Lime Green,Trapezium,360,250,2,9,1,,10.7
+99,Lime Green,Trapezium,360,250,2,10,1,,10.7
+100,Pink,Trapezium,110,300,1,1,1,,10.6
+100,Pink,Trapezium,110,300,1,2,1,,10.8
+100,Pink,Trapezium,110,300,1,3,1,,11.0
+100,Pink,Trapezium,110,300,1,4,1,,12.5
+100,Pink,Trapezium,110,300,1,5,1,,10.8
+100,Pink,Trapezium,110,300,1,6,1,,10.9
+100,Pink,Trapezium,110,300,1,7,1,,10.7
+100,Pink,Trapezium,110,300,1,8,1,,10.6
+100,Pink,Trapezium,110,300,1,9,1,,10.9
+100,Pink,Trapezium,110,300,1,10,1,,10.7
+101,Royal Blue,Hexagonal,360,250,1,1,1,,6.4
+101,Royal Blue,Hexagonal,360,250,1,2,1,,6.7
+101,Royal Blue,Hexagonal,360,250,1,3,1,,6.4
+101,Royal Blue,Hexagonal,360,250,1,4,1,,6.4
+101,Royal Blue,Hexagonal,360,250,1,5,1,,6.5
+101,Royal Blue,Hexagonal,360,250,1,6,0,bottom_part_not_recognized,
+101,Royal Blue,Hexagonal,360,250,1,7,1,,6.4
+101,Royal Blue,Hexagonal,360,250,1,8,1,,6.5
+101,Royal Blue,Hexagonal,360,250,1,9,1,,6.5
+101,Royal Blue,Hexagonal,360,250,1,10,0,bottom_part_not_recognized,
+102,Pink,Trapezium,360,300,1,1,1,,10.9
+102,Pink,Trapezium,360,300,1,2,1,,10.7
+102,Pink,Trapezium,360,300,1,3,1,,11.0
+102,Pink,Trapezium,360,300,1,4,1,,10.7
+102,Pink,Trapezium,360,300,1,5,1,,10.7
+102,Pink,Trapezium,360,300,1,6,1,,10.7
+102,Pink,Trapezium,360,300,1,7,1,,10.8
+102,Pink,Trapezium,360,300,1,8,1,,10.8
+102,Pink,Trapezium,360,300,1,9,1,,10.7
+102,Pink,Trapezium,360,300,1,10,1,,10.7
+103,Red,Trapezium,110,300,2,1,1,,10.9
+103,Red,Trapezium,110,300,2,2,1,,10.8
+103,Red,Trapezium,110,300,2,3,1,,11.0
+103,Red,Trapezium,110,300,2,4,1,,10.9
+103,Red,Trapezium,110,300,2,5,1,,10.7
+103,Red,Trapezium,110,300,2,6,1,,10.9
+103,Red,Trapezium,110,300,2,7,1,,10.9
+103,Red,Trapezium,110,300,2,8,1,,11.6
+103,Red,Trapezium,110,300,2,9,1,,10.8
+103,Red,Trapezium,110,300,2,10,1,,10.9
+104,Red,Hexagonal,360,300,1,1,1,,6.5
+104,Red,Hexagonal,360,300,1,2,1,,6.6
+104,Red,Hexagonal,360,300,1,3,1,,6.5
+104,Red,Hexagonal,360,300,1,4,0,wrong_orientation,
+104,Red,Hexagonal,360,300,1,5,1,,6.3
+104,Red,Hexagonal,360,300,1,6,1,,6.5
+104,Red,Hexagonal,360,300,1,7,1,,6.5
+104,Red,Hexagonal,360,300,1,8,1,,6.3
+104,Red,Hexagonal,360,300,1,9,1,,6.7
+104,Red,Hexagonal,360,300,1,10,1,,6.2
+105,Red,Hexagonal,110,250,1,1,1,,6.6
+105,Red,Hexagonal,110,250,1,2,1,,6.8
+105,Red,Hexagonal,110,250,1,3,1,,6.6
+105,Red,Hexagonal,110,250,1,4,1,,6.8
+105,Red,Hexagonal,110,250,1,5,1,,6.6
+105,Red,Hexagonal,110,250,1,6,1,,6.8
+105,Red,Hexagonal,110,250,1,7,1,,6.7
+105,Red,Hexagonal,110,250,1,8,1,,6.8
+105,Red,Hexagonal,110,250,1,9,1,,6.7
+105,Red,Hexagonal,110,250,1,10,1,,6.8
+106,Lime Green,Hexagonal,360,300,2,1,0,wrong_orientation,
+106,Lime Green,Hexagonal,360,300,2,2,1,,6.5
+106,Lime Green,Hexagonal,360,300,2,3,0,bottom_part_not_recognized,
+106,Lime Green,Hexagonal,360,300,2,4,1,,6.7
+106,Lime Green,Hexagonal,360,300,2,5,1,,6.4
+106,Lime Green,Hexagonal,360,300,2,6,0,bottom_part_not_recognized,
+106,Lime Green,Hexagonal,360,300,2,7,0,bottom_part_not_recognized,
+106,Lime Green,Hexagonal,360,300,2,8,0,bottom_part_not_recognized,
+106,Lime Green,Hexagonal,360,300,2,9,0,wrong_orientation,
+106,Lime Green,Hexagonal,360,300,2,10,1,,6.5
+107,Pink,Trapezium,110,250,1,1,1,,10.6
+107,Pink,Trapezium,110,250,1,2,1,,10.9
+107,Pink,Trapezium,110,250,1,3,1,,10.6
+107,Pink,Trapezium,110,250,1,4,1,,10.7
+107,Pink,Trapezium,110,250,1,5,1,,10.7
+107,Pink,Trapezium,110,250,1,6,1,,10.7
+107,Pink,Trapezium,110,250,1,7,1,,10.7
+107,Pink,Trapezium,110,250,1,8,1,,10.6
+107,Pink,Trapezium,110,250,1,9,1,,10.7
+107,Pink,Trapezium,110,250,1,10,1,,10.6
+108,Lime Green,Hexagonal,110,300,2,1,0,wrong_orientation,
+108,Lime Green,Hexagonal,110,300,2,2,1,,6.7
+108,Lime Green,Hexagonal,110,300,2,3,1,,6.4
+108,Lime Green,Hexagonal,110,300,2,4,1,,6.3
+108,Lime Green,Hexagonal,110,300,2,5,1,,6.4
+108,Lime Green,Hexagonal,110,300,2,6,1,,6.3
+108,Lime Green,Hexagonal,110,300,2,7,0,wrong_orientation,
+108,Lime Green,Hexagonal,110,300,2,8,1,,6.3
+108,Lime Green,Hexagonal,110,300,2,9,0,wrong_orientation,
+108,Lime Green,Hexagonal,110,300,2,10,1,,6.4
+109,Royal Blue,Trapezium,360,250,2,1,1,,10.9
+109,Royal Blue,Trapezium,360,250,2,2,1,,10.8
+109,Royal Blue,Trapezium,360,250,2,3,1,,10.7
+109,Royal Blue,Trapezium,360,250,2,4,1,,10.6
+109,Royal Blue,Trapezium,360,250,2,5,1,,10.6
+109,Royal Blue,Trapezium,360,250,2,6,1,,10.6
+109,Royal Blue,Trapezium,360,250,2,7,1,,10.5
+109,Royal Blue,Trapezium,360,250,2,8,1,,10.8
+109,Royal Blue,Trapezium,360,250,2,9,1,,10.7
+109,Royal Blue,Trapezium,360,250,2,10,1,,10.7
+110,Pink,Trapezium,110,250,2,1,1,,10.6
+110,Pink,Trapezium,110,250,2,2,1,,10.7
+110,Pink,Trapezium,110,250,2,3,1,,10.9
+110,Pink,Trapezium,110,250,2,4,1,,10.6
+110,Pink,Trapezium,110,250,2,5,1,,12.0
+110,Pink,Trapezium,110,250,2,6,1,,12.1
+110,Pink,Trapezium,110,250,2,7,1,,10.9
+110,Pink,Trapezium,110,250,2,8,1,,10.6
+110,Pink,Trapezium,110,250,2,9,1,,10.7
+110,Pink,Trapezium,110,250,2,10,1,,10.7
+111,Lime Green,Hexagonal,110,250,2,1,0,wrong_orientation,
+111,Lime Green,Hexagonal,110,250,2,2,1,,6.7
+111,Lime Green,Hexagonal,110,250,2,3,1,,6.5
+111,Lime Green,Hexagonal,110,250,2,4,1,,6.5
+111,Lime Green,Hexagonal,110,250,2,5,1,,6.6
+111,Lime Green,Hexagonal,110,250,2,6,1,,6.5
+111,Lime Green,Hexagonal,110,250,2,7,1,,6.5
+111,Lime Green,Hexagonal,110,250,2,8,1,,6.4
+111,Lime Green,Hexagonal,110,250,2,9,1,,6.6
+111,Lime Green,Hexagonal,110,250,2,10,1,,6.8
+112,Lime Green,Hexagonal,360,300,1,1,0,wrong_orientation,
+112,Lime Green,Hexagonal,360,300,1,2,0,wrong_orientation,
+112,Lime Green,Hexagonal,360,300,1,3,0,wrong_orientation,
+112,Lime Green,Hexagonal,360,300,1,4,0,wrong_orientation,
+112,Lime Green,Hexagonal,360,300,1,5,0,wrong_orientation,
+112,Lime Green,Hexagonal,360,300,1,6,1,,6.6
+112,Lime Green,Hexagonal,360,300,1,7,0,wrong_orientation,
+112,Lime Green,Hexagonal,360,300,1,8,1,,6.5
+112,Lime Green,Hexagonal,360,300,1,9,1,,6.6
+112,Lime Green,Hexagonal,360,300,1,10,1,,6.5
+113,Lime Green,Trapezium,110,300,2,1,1,,11.3
+113,Lime Green,Trapezium,110,300,2,2,1,,10.7
+113,Lime Green,Trapezium,110,300,2,3,1,,10.8
+113,Lime Green,Trapezium,110,300,2,4,1,,10.7
+113,Lime Green,Trapezium,110,300,2,5,1,,10.7
+113,Lime Green,Trapezium,110,300,2,6,1,,11.9
+113,Lime Green,Trapezium,110,300,2,7,1,,10.8
+113,Lime Green,Trapezium,110,300,2,8,1,,10.7
+113,Lime Green,Trapezium,110,300,2,9,1,,10.8
+113,Lime Green,Trapezium,110,300,2,10,1,,10.8
+114,Pink,Hexagonal,110,250,1,1,1,,6.6
+114,Pink,Hexagonal,110,250,1,2,1,,6.5
+114,Pink,Hexagonal,110,250,1,3,1,,6.6
+114,Pink,Hexagonal,110,250,1,4,1,,7.2
+114,Pink,Hexagonal,110,250,1,5,1,,6.6
+114,Pink,Hexagonal,110,250,1,6,1,,6.4
+114,Pink,Hexagonal,110,250,1,7,1,,6.6
+114,Pink,Hexagonal,110,250,1,8,1,,6.5
+114,Pink,Hexagonal,110,250,1,9,1,,6.5
+114,Pink,Hexagonal,110,250,1,10,1,,6.6
+115,Pink,Trapezium,360,300,2,1,0,bottom_part_not_recognized,
+115,Pink,Trapezium,360,300,2,2,1,,10.7
+115,Pink,Trapezium,360,300,2,3,1,,10.7
+115,Pink,Trapezium,360,300,2,4,1,,10.6
+115,Pink,Trapezium,360,300,2,5,1,,10.8
+115,Pink,Trapezium,360,300,2,6,1,,10.6
+115,Pink,Trapezium,360,300,2,7,1,,11.0
+115,Pink,Trapezium,360,300,2,8,1,,10.6
+115,Pink,Trapezium,360,300,2,9,1,,10.7
+115,Pink,Trapezium,360,300,2,10,1,,10.7
+116,Red,Hexagonal,110,300,1,1,1,,6.4
+116,Red,Hexagonal,110,300,1,2,1,,6.4
+116,Red,Hexagonal,110,300,1,3,1,,6.5
+116,Red,Hexagonal,110,300,1,4,1,,6.4
+116,Red,Hexagonal,110,300,1,5,1,,6.5
+116,Red,Hexagonal,110,300,1,6,1,,6.3
+116,Red,Hexagonal,110,300,1,7,1,,6.5
+116,Red,Hexagonal,110,300,1,8,1,,6.4
+116,Red,Hexagonal,110,300,1,9,1,,6.4
+116,Red,Hexagonal,110,300,1,10,1,,6.5
+117,Royal Blue,Trapezium,110,250,2,1,1,,10.6
+117,Royal Blue,Trapezium,110,250,2,2,1,,10.7
+117,Royal Blue,Trapezium,110,250,2,3,1,,10.6
+117,Royal Blue,Trapezium,110,250,2,4,1,,10.7
+117,Royal Blue,Trapezium,110,250,2,5,1,,10.7
+117,Royal Blue,Trapezium,110,250,2,6,1,,10.7
+117,Royal Blue,Trapezium,110,250,2,7,1,,10.6
+117,Royal Blue,Trapezium,110,250,2,8,1,,10.7
+117,Royal Blue,Trapezium,110,250,2,9,1,,11.1
+117,Royal Blue,Trapezium,110,250,2,10,1,,10.6
+118,Royal Blue,Trapezium,110,300,2,1,1,,10.8
+118,Royal Blue,Trapezium,110,300,2,2,1,,10.7
+118,Royal Blue,Trapezium,110,300,2,3,1,,10.7
+118,Royal Blue,Trapezium,110,300,2,4,1,,10.7
+118,Royal Blue,Trapezium,110,300,2,5,1,,10.7
+118,Royal Blue,Trapezium,110,300,2,6,1,,11.8
+118,Royal Blue,Trapezium,110,300,2,7,1,,10.6
+118,Royal Blue,Trapezium,110,300,2,8,1,,11.6
+118,Royal Blue,Trapezium,110,300,2,9,1,,10.6
+118,Royal Blue,Trapezium,110,300,2,10,1,,11.0
+119,Royal Blue,Hexagonal,110,250,2,1,1,,6.8
+119,Royal Blue,Hexagonal,110,250,2,2,1,,6.8
+119,Royal Blue,Hexagonal,110,250,2,3,1,,6.7
+119,Royal Blue,Hexagonal,110,250,2,4,1,,6.9
+119,Royal Blue,Hexagonal,110,250,2,5,1,,6.7
+119,Royal Blue,Hexagonal,110,250,2,6,1,,7.6
+119,Royal Blue,Hexagonal,110,250,2,7,1,,6.4
+119,Royal Blue,Hexagonal,110,250,2,8,1,,6.7
+119,Royal Blue,Hexagonal,110,250,2,9,1,,6.7
+119,Royal Blue,Hexagonal,110,250,2,10,1,,6.6
+120,Red,Trapezium,360,250,2,1,1,,10.7
+120,Red,Trapezium,360,250,2,2,1,,10.7
+120,Red,Trapezium,360,250,2,3,1,,10.6
+120,Red,Trapezium,360,250,2,4,1,,11.0
+120,Red,Trapezium,360,250,2,5,1,,10.8
+120,Red,Trapezium,360,250,2,6,1,,10.7
+120,Red,Trapezium,360,250,2,7,1,,11.1
+120,Red,Trapezium,360,250,2,8,1,,10.9
+120,Red,Trapezium,360,250,2,9,1,,10.8
+120,Red,Trapezium,360,250,2,10,1,,10.8
+121,Pink,Trapezium,360,250,2,1,0,wrong_orientation,
+121,Pink,Trapezium,360,250,2,2,1,,10.8
+121,Pink,Trapezium,360,250,2,3,1,,10.8
+121,Pink,Trapezium,360,250,2,4,1,,10.8
+121,Pink,Trapezium,360,250,2,5,1,,10.7
+121,Pink,Trapezium,360,250,2,6,1,,10.7
+121,Pink,Trapezium,360,250,2,7,1,,10.7
+121,Pink,Trapezium,360,250,2,8,1,,10.8
+121,Pink,Trapezium,360,250,2,9,1,,10.9
+121,Pink,Trapezium,360,250,2,10,0,wrong_orientation,
+122,Royal Blue,Trapezium,360,300,1,1,1,,10.9
+122,Royal Blue,Trapezium,360,300,1,2,1,,10.8
+122,Royal Blue,Trapezium,360,300,1,3,1,,10.8
+122,Royal Blue,Trapezium,360,300,1,4,1,,10.9
+122,Royal Blue,Trapezium,360,300,1,5,1,,10.7
+122,Royal Blue,Trapezium,360,300,1,6,1,,10.7
+122,Royal Blue,Trapezium,360,300,1,7,1,,10.8
+122,Royal Blue,Trapezium,360,300,1,8,1,,10.8
+122,Royal Blue,Trapezium,360,300,1,9,1,,10.7
+122,Royal Blue,Trapezium,360,300,1,10,1,,10.8
+123,Lime Green,Trapezium,360,250,1,1,1,,10.9
+123,Lime Green,Trapezium,360,250,1,2,1,,10.6
+123,Lime Green,Trapezium,360,250,1,3,1,,10.9
+123,Lime Green,Trapezium,360,250,1,4,1,,10.8
+123,Lime Green,Trapezium,360,250,1,5,1,,10.9
+123,Lime Green,Trapezium,360,250,1,6,1,,10.7
+123,Lime Green,Trapezium,360,250,1,7,1,,10.9
+123,Lime Green,Trapezium,360,250,1,8,1,,11.9
+123,Lime Green,Trapezium,360,250,1,9,1,,10.6
+123,Lime Green,Trapezium,360,250,1,10,1,,10.5
+124,Red,Trapezium,360,300,2,1,1,,10.7
+124,Red,Trapezium,360,300,2,2,1,,10.8
+124,Red,Trapezium,360,300,2,3,1,,10.8
+124,Red,Trapezium,360,300,2,4,1,,10.6
+124,Red,Trapezium,360,300,2,5,1,,10.8
+124,Red,Trapezium,360,300,2,6,1,,10.9
+124,Red,Trapezium,360,300,2,7,1,,10.6
+124,Red,Trapezium,360,300,2,8,1,,10.8
+124,Red,Trapezium,360,300,2,9,1,,10.6
+124,Red,Trapezium,360,300,2,10,1,,10.7
+125,Royal Blue,Hexagonal,110,300,2,1,1,,6.8
+125,Royal Blue,Hexagonal,110,300,2,2,1,,6.7
+125,Royal Blue,Hexagonal,110,300,2,3,1,,6.7
+125,Royal Blue,Hexagonal,110,300,2,4,1,,6.5
+125,Royal Blue,Hexagonal,110,300,2,5,0,wrong_orientation,
+125,Royal Blue,Hexagonal,110,300,2,6,1,,6.8
+125,Royal Blue,Hexagonal,110,300,2,7,1,,6.6
+125,Royal Blue,Hexagonal,110,300,2,8,1,,6.7
+125,Royal Blue,Hexagonal,110,300,2,9,0,wrong_orientation,
+125,Royal Blue,Hexagonal,110,300,2,10,1,,6.8
+126,Royal Blue,Trapezium,360,300,2,1,1,,10.9
+126,Royal Blue,Trapezium,360,300,2,2,1,,10.9
+126,Royal Blue,Trapezium,360,300,2,3,1,,10.7
+126,Royal Blue,Trapezium,360,300,2,4,1,,10.8
+126,Royal Blue,Trapezium,360,300,2,5,1,,10.6
+126,Royal Blue,Trapezium,360,300,2,6,1,,10.7
+126,Royal Blue,Trapezium,360,300,2,7,1,,10.8
+126,Royal Blue,Trapezium,360,300,2,8,1,,10.8
+126,Royal Blue,Trapezium,360,300,2,9,1,,10.9
+126,Royal Blue,Trapezium,360,300,2,10,1,,10.9
+127,Pink,Hexagonal,360,300,1,1,1,,6.5
+127,Pink,Hexagonal,360,300,1,2,1,,6.1
+127,Pink,Hexagonal,360,300,1,3,1,,6.6
+127,Pink,Hexagonal,360,300,1,4,1,,6.4
+127,Pink,Hexagonal,360,300,1,5,1,,6.5
+127,Pink,Hexagonal,360,300,1,6,1,,6.6
+127,Pink,Hexagonal,360,300,1,7,1,,6.5
+127,Pink,Hexagonal,360,300,1,8,0,bottom_part_not_recognized,
+127,Pink,Hexagonal,360,300,1,9,1,,6.2
+127,Pink,Hexagonal,360,300,1,10,1,,6.3
+128,Red,Hexagonal,360,250,2,1,0,bottom_part_not_recognized,
+128,Red,Hexagonal,360,250,2,2,1,,6.2
+128,Red,Hexagonal,360,250,2,3,1,,6.3
+128,Red,Hexagonal,360,250,2,4,1,,6.2
+128,Red,Hexagonal,360,250,2,5,1,,6.3
+128,Red,Hexagonal,360,250,2,6,1,,6.8
+128,Red,Hexagonal,360,250,2,7,1,,6.5
+128,Red,Hexagonal,360,250,2,8,1,,6.4
+128,Red,Hexagonal,360,250,2,9,1,,6.3
+128,Red,Hexagonal,360,250,2,10,1,,6.3
