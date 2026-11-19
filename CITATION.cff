@@ -8,7 +8,11 @@ authors:
   - family-names: Lopes
     given-names: Amit J.
     affiliation: "The University of Texas at El Paso"
-license: MIT AND CC-BY-4.0
+type: dataset
+license:
+  - MIT
+  - CC-BY-4.0
+repository-code: "https://github.com/asifkhan72/vision-guided-assembly-factorial"
 keywords:
   - vision-guided assembly
   - collaborative robot
