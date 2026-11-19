@@ -1,0 +1,23 @@
+{
+  "title": "Vision-guided assembly: replicated full-factorial experiment (data, CAD, and analysis code)",
+  "upload_type": "dataset",
+  "description": "Data, part CAD, and analysis code for the article \"Assembly Success in a Vision-Guided Robot Cell: A Replicated Full-Factorial Study\". The experiment varied part color, part configuration, ambient illuminance, and scanning height in a UR3e cell with a Robotiq wrist camera and 2F-85 gripper (64 conditions, 128 runs, 1280 attempts). The analysis code is released under the MIT License.",
+  "creators": [
+    {
+      "name": "Sharon, Md Asif Khan",
+      "affiliation": "The University of Texas at El Paso"
+    },
+    {
+      "name": "Lopes, Amit J.",
+      "affiliation": "The University of Texas at El Paso"
+    }
+  ],
+  "license": "cc-by-4.0",
+  "keywords": [
+    "vision-guided assembly",
+    "collaborative robot",
+    "design of experiments",
+    "factorial experiment",
+    "assembly success"
+  ]
+}
