@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use these files, please cite them as below."
+title: "Vision-guided assembly: replicated full-factorial experiment (data, CAD, and analysis code)"
+authors:
+  - family-names: Sharon
+    given-names: Md Asif Khan
+    affiliation: "The University of Texas at El Paso"
+  - family-names: Lopes
+    given-names: Amit J.
+    affiliation: "The University of Texas at El Paso"
+license: MIT AND CC-BY-4.0
+keywords:
+  - vision-guided assembly
+  - collaborative robot
+  - design of experiments
+  - factorial experiment
+  - assembly success
